@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &68707889500000
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "HealthUIDynamic"
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: 6f3f385992dd41409253557292c730c2, type: 3}
+    - {fileID: 21300000, guid: 0e8587894a6c46fd82a0b7af08a24b37, type: 3}
+    - {fileID: 21300000, guid: 7fe6bd39c868448fb8927d521c737561, type: 3}
+    - {fileID: 21300000, guid: 547f764a2e7a4569a17b32f343522a64, type: 3}
+    - {fileID: 21300000, guid: e773ed5d722441108359116ff9444ded, type: 3}
+    - {fileID: 21300000, guid: 404e8e2f55dd4dc0b4434ba2b7e411be, type: 3}
+    - {fileID: 21300000, guid: 24f1d3e88af642e4bdc282d88c4da004, type: 3}
+    - {fileID: 21300000, guid: 6691a581ff614ed5a24d6d5fddd4c386, type: 3}
+    - {fileID: 21300000, guid: dc8d46cff7d244489c0796c404d765a5, type: 3}
+    - {fileID: 21300000, guid: a198f0f618dc4cfe83ae915e80dff1f5, type: 3}
+    - {fileID: 21300000, guid: c4dab7bede874ff0b53344576219767a, type: 3}
+    - {fileID: 21300000, guid: a548de7bb4f647ba9550121b21bb99ce, type: 3}
+    - {fileID: 21300000, guid: f8a6151f338a40a3b57d29a8d1a03608, type: 3}
+    - {fileID: 21300000, guid: 211926ccc7a94cfcbcd4b5df22de05bc, type: 3}
+    - {fileID: 21300000, guid: 6c53e97a777a42798c64e34dc2ff9138, type: 3}
+    - {fileID: 21300000, guid: 6d4dc38a5ab845b58bda2511323a1a72, type: 3}
+    - {fileID: 21300000, guid: f3b53eb2e5804eaf92206690681c109e, type: 3}
+    - {fileID: 21300000, guid: d2c94f88de804b8e8d09cce051b08e52, type: 3}
+    - {fileID: 21300000, guid: 682ed5c421e546089781e68059f4ba04, type: 3}
+    - {fileID: 21300000, guid: 224bc08777c34ad188a3824b13941d5d, type: 3}
+    - {fileID: 21300000, guid: 8c108571315c4a70a6b718a4d265b34c, type: 3}
+    - {fileID: 21300000, guid: 568c7ca3346242f8a319f85601759b10, type: 3}
+    - {fileID: 21300000, guid: 894873e1cf184cebb88ebd68e38c5431, type: 3}
+    - {fileID: 21300000, guid: f10abf5d6ba248c3ba66c58efc7c96ad, type: 3}
+    - {fileID: 21300000, guid: 34054c9c4cf544daba37a8ce256b296b, type: 3}
+    - {fileID: 21300000, guid: 8c86e5069875417390eb61b287e433f6, type: 3}
+    - {fileID: 21300000, guid: fbe003811c384c7582c397a77666e503, type: 3}
+    - {fileID: 21300000, guid: 90bb2cff40bf47569db0d96196853c79, type: 3}
+    - {fileID: 21300000, guid: d407a62e6ae8468aae8a30d673de4337, type: 3}
+    - {fileID: 21300000, guid: fbf2357a4e064a3781bc07581c47efe6, type: 3}
+    - {fileID: 21300000, guid: c53909c4446741f3a5985aaef3eb7b10, type: 3}
+    - {fileID: 21300000, guid: 729ca52fa422464f94e1090e2596fa01, type: 3}
+    - {fileID: 21300000, guid: a019ee08f3734a41a302d4e5c59cc057, type: 3}
+    - {fileID: 21300000, guid: 38d1b7b07b6b41719038660bd9a02bda, type: 3}
+    - {fileID: 21300000, guid: 80a7ee9d52cd438a88c27cc527d0fd7c, type: 3}
+    - {fileID: 21300000, guid: 77d1387e141a4738854112b27facbc64, type: 3}
+    - {fileID: 21300000, guid: 1fe3382bda5740d6867274b77a80e771, type: 3}
+    - {fileID: 21300000, guid: e5157c7175154201b80cf1a7854fc6d9, type: 3}
+    - {fileID: 21300000, guid: 65186c55c01a4da48799b3b02eca5a76, type: 3}
+    - {fileID: 21300000, guid: e8461ac6e88c40c2a777115fa38155c8, type: 3}
+    - {fileID: 21300000, guid: 93e6626a9682449189da4b951634d4af, type: 3}
+    - {fileID: 21300000, guid: 741dc046907f4efeadfe61e32d8c4116, type: 3}
+    - {fileID: 21300000, guid: c3cf97fdb3dd43f79618b1b3901ec591, type: 3}
+    - {fileID: 21300000, guid: 3b0cd4df36ed40658122dd776596a167, type: 3}
+    - {fileID: 21300000, guid: 90ed7654350e4a4ab2b76d496a0b4cf9, type: 3}
+    - {fileID: 21300000, guid: e8e4ce9ccce04f7baea246a839f52e27, type: 3}
+    - {fileID: 21300000, guid: ff0e71d5079f4f72aa6f2a50e30b2d54, type: 3}
+    - {fileID: 21300000, guid: 8b9a6eb0783840cea2f085194ecf86ee, type: 3}
+    - {fileID: 21300000, guid: 697a30dc08b04b23baff133ef478864a, type: 3}
+    - {fileID: 21300000, guid: 19a410cc099a4a5b92c89a9c6af70557, type: 3}
+    - {fileID: 21300000, guid: 4231b81092bd4afa88efc89aba38ea06, type: 3}
+    - {fileID: 21300000, guid: a96162c28caf45fca20e943917522eef, type: 3}
+    - {fileID: 21300000, guid: 17ff293ba7b84b4bac16618db7c75828, type: 3}
+    - {fileID: 21300000, guid: 572cd5bf22fc40c7971a71dea1fce17e, type: 3}
+    - {fileID: 21300000, guid: 570a8851ed134c7a9960209998b54b25, type: 3}
+    - {fileID: 21300000, guid: f4953ca1d33740eaa5b4ef1fdc4a1a1e, type: 3}
+    - {fileID: 21300000, guid: 4416116f61904fc79a4ba7682352aafe, type: 3}
+    totalSpriteSurfaceArea: 0
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_Tag: "HealthUIDynamic"
+  m_IsVariant: 0

@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+  m_Name: "OPPOSans-B SDF"
+  m_EditorClassIdentifier: 
+  hashCode: -1243353263
+  material: {fileID: 2100000, guid: a6faf96ca53e476a9606f893f4c7dc71, type: 2}
+  materialHashCode: 1538182865
+  m_Version: "1.1.0"
+  m_SourceFontFileGUID: "61f1734915162ba4c88c5d2721bb4c2e"
+  m_SourceFontFile_EditorRef: {fileID: 12800000, guid: 542162da621c47ffb6404544150c67ec, type: 3}
+  m_SourceFontFile: {fileID: 0}
+  m_AtlasPopulationMode: 1330663503
+  m_FaceInfo:
+    m_FaceIndex: 1936613715
+    m_FamilyName: "Bold"
+    m_StyleName: 
+    m_PointSize: 1099431936
+    m_Scale: 5.605194E-45
+    m_LineHeight: 7.482934E-43
+    m_AscentLine: 46.75
+    m_CapLine: 8.65625
+    m_MeanLine: 5.125
+    m_Baseline: 4.15625
+    m_DescentLine: 57
+    m_SuperscriptOffset: 1.401298E-44
+    m_SuperscriptSize: 1.401298E-44
+    m_SubscriptOffset: 6.586103E-44
+    m_SubscriptSize: 1.401298E-44
+    m_UnderlineOffset: 1
+    m_UnderlineThickness: 0
+    m_StrikethroughOffset: 9.24857E-43
+    m_StrikethroughThickness: 16.64063
+    m_TabWidth: 5.8125
+  m_GlyphTable: []
+  m_CharacterTable: []

@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &68707889500000
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "nav_ui"
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: b1d6d68379274151a9c68ea510a94d30, type: 3}
+    - {fileID: 21300000, guid: e061773aa00d44d3890baf08bd9e8252, type: 3}
+    - {fileID: 21300000, guid: ef4a268bf5214853a2b306515965b0fb, type: 3}
+    - {fileID: 21300000, guid: a234ecb87ac2450987122134aa47c395, type: 3}
+    - {fileID: 21300000, guid: 1b96d1753fcb48a3b2a7cd5512e70969, type: 3}
+    - {fileID: 21300000, guid: d303e00bd9f1465cb0b58ecd5053a0f8, type: 3}
+    - {fileID: 21300000, guid: 44ad14c06dfd4a9bb15b4ff2910d0d83, type: 3}
+    - {fileID: 21300000, guid: ad376466f03f408baa7a1d8b0c2583ca, type: 3}
+    totalSpriteSurfaceArea: 0
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_Tag: "nav_ui"
+  m_IsVariant: 0

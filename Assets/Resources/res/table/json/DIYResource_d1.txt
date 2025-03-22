@@ -1,0 +1,716 @@
+[
+  {
+    "Id": 0,
+    "AssetKey": "ak_diy_com_circularpicture",
+    "Is3D": false,
+    "Style": "roundImg",
+    "Type": 2
+  },
+  {
+    "Id": 1,
+    "AssetKey": "ak_diy_com_filmphotosign",
+    "Is3D": false,
+    "Style": "filmPhotoSign",
+    "Type": 2
+  },
+  {
+    "Id": 2,
+    "AssetKey": "ak_diy_com_filmphotostick",
+    "Is3D": false,
+    "Style": "filmPhotoStick",
+    "Type": 3
+  },
+  {
+    "Id": 3,
+    "AssetKey": "ak_diy_com_filmphoto",
+    "Is3D": false,
+    "Style": "filmPhoto",
+    "Type": 4
+  },
+  {
+    "Id": 4,
+    "AssetKey": "ak_diy_com_filmclock",
+    "Is3D": false,
+    "Style": "filmClock",
+    "Type": 5
+  },
+  {
+    "Id": 5,
+    "AssetKey": "ak_diy_com_bubble",
+    "Is3D": false,
+    "Style": "bubble",
+    "Type": 6
+  },
+  {
+    "Id": 6,
+    "AssetKey": "ak_diy_com_photoframe",
+    "Is3D": false,
+    "Style": "seaSmallFrame",
+    "Type": 7
+  },
+  {
+    "Id": 7,
+    "AssetKey": "ak_diy_com_photoframe_art",
+    "Is3D": false,
+    "Style": "artFrame",
+    "Type": 8
+  },
+  {
+    "Id": 8,
+    "AssetKey": "ak_diy_com_photoframe_wood",
+    "Is3D": false,
+    "Style": "woodFrame",
+    "Type": 9
+  },
+  {
+    "Id": 9,
+    "AssetKey": "ak_diy_com_star",
+    "Is3D": false,
+    "Style": "star",
+    "Type": 10
+  },
+  {
+    "Id": 10,
+    "AssetKey": "ak_diy_com_whitechildclock",
+    "Is3D": false,
+    "Style": "childClock",
+    "Type": 2
+  },
+  {
+    "Id": 11,
+    "AssetKey": "ak_diy_com_woodclock",
+    "Is3D": false,
+    "Style": "woodClock",
+    "Type": 2
+  },
+  {
+    "Id": 12,
+    "AssetKey": "ak_diy_com_fullscreenmedia",
+    "Is3D": false,
+    "Style": "full_screen",
+    "Type": 13
+  },
+  {
+    "Id": 13,
+    "AssetKey": "ak_diy_com_childtag",
+    "Is3D": false,
+    "Style": "childText",
+    "Type": 6
+  },
+  {
+    "Id": 14,
+    "AssetKey": "ak_diy_com_digitalclock",
+    "Is3D": false,
+    "Style": "clock_1",
+    "Type": 2
+  },
+  {
+    "Id": 15,
+    "AssetKey": "ak_diy_com_universalclock",
+    "Is3D": false,
+    "Style": "clock_3",
+    "Type": 2
+  },
+  {
+    "Id": 16,
+    "AssetKey": "ak_diy_com_StandardClock",
+    "Is3D": false,
+    "Style": "clock_4",
+    "Type": 2
+  },
+  {
+    "Id": 17,
+    "AssetKey": "ak_diy_com_delicateclock",
+    "Is3D": false,
+    "Style": "clock_5",
+    "Type": 2
+  },
+  {
+    "Id": 18,
+    "AssetKey": "ak_diy_com_artclock",
+    "Is3D": false,
+    "Style": "clock_7",
+    "Type": 2
+  },
+  {
+    "Id": 19,
+    "AssetKey": "ak_diy_com_childlikeclock",
+    "Is3D": false,
+    "Style": "clock_6",
+    "Type": 2
+  },
+  {
+    "Id": 20,
+    "AssetKey": "ak_diy_com_diytext",
+    "Is3D": false,
+    "Style": "text",
+    "Type": 888
+  },
+  {
+    "Id": 21,
+    "AssetKey": "ak_diy_com_paster",
+    "Is3D": false,
+    "Style": "paster",
+    "Type": 6
+  },
+  {
+    "Id": 22,
+    "AssetKey": "ak_diy_com_weatheradjective",
+    "Is3D": false,
+    "Style": "weather_2",
+    "Type": 1
+  },
+  {
+    "Id": 23,
+    "AssetKey": "ak_diy_com_weatheradjectivedetails",
+    "Is3D": false,
+    "Style": "weather_8",
+    "Type": 1
+  },
+  {
+    "Id": 24,
+    "AssetKey": "ak_diy_com_weatherchnstyle",
+    "Is3D": false,
+    "Style": "weather_1",
+    "Type": 1
+  },
+  {
+    "Id": 25,
+    "AssetKey": "ak_diy_com_weatherchnstyledetails",
+    "Is3D": false,
+    "Style": "weather_7",
+    "Type": 1
+  },
+  {
+    "Id": 26,
+    "AssetKey": "ak_diy_com_weatherdefault",
+    "Is3D": false,
+    "Style": "weather_11",
+    "Type": 1
+  },
+  {
+    "Id": 27,
+    "AssetKey": "ak_diy_com_weatherdefaultdetails",
+    "Is3D": false,
+    "Style": "weather_12",
+    "Type": 1
+  },
+  {
+    "Id": 28,
+    "AssetKey": "ak_diy_com_weatherdigital",
+    "Is3D": false,
+    "Style": "weather_3",
+    "Type": 1
+  },
+  {
+    "Id": 29,
+    "AssetKey": "ak_diy_com_weatherdigitaldetails",
+    "Is3D": false,
+    "Style": "weather_4",
+    "Type": 1
+  },
+  {
+    "Id": 30,
+    "AssetKey": "ak_diy_com_weatherneon",
+    "Is3D": false,
+    "Style": "weather_5",
+    "Type": 1
+  },
+  {
+    "Id": 31,
+    "AssetKey": "ak_diy_com_weatherneondetails",
+    "Is3D": false,
+    "Style": "weather_6",
+    "Type": 1
+  },
+  {
+    "Id": 32,
+    "AssetKey": "ak_diy_com_weathersimple",
+    "Is3D": false,
+    "Style": "weather_9",
+    "Type": 1
+  },
+  {
+    "Id": 33,
+    "AssetKey": "ak_diy_com_weathersimpledetails",
+    "Is3D": false,
+    "Style": "weather_10",
+    "Type": 1
+  },
+  {
+    "Id": 34,
+    "AssetKey": "ak_diy_com_videophotoframe",
+    "Is3D": false,
+    "Style": "frame",
+    "Type": 4
+  },
+  {
+    "Id": 36,
+    "AssetKey": "ak_diy_com_videoframe",
+    "Is3D": false,
+    "Style": "seaBigFrame",
+    "Type": 4
+  },
+  {
+    "Id": 37,
+    "AssetKey": "ak_diy_com_soapbubles",
+    "Is3D": true,
+    "Style": "special_1",
+    "Type": 5
+  },
+  {
+    "Id": 38,
+    "AssetKey": "ak_diy_com_soapbubbleStream",
+    "Is3D": true,
+    "Style": "special_7",
+    "Type": 5
+  },
+  {
+    "Id": 39,
+    "AssetKey": "ak_diy_com_bubbleex",
+    "Is3D": true,
+    "Style": "special_6",
+    "Type": 5
+  },
+  {
+    "Id": 40,
+    "AssetKey": "ak_diy_com_toonconfettidirpastel",
+    "Is3D": true,
+    "Style": "special_3",
+    "Type": 5
+  },
+  {
+    "Id": 41,
+    "AssetKey": "ak_diy_com_bubblespray",
+    "Is3D": true,
+    "Style": "special_8",
+    "Type": 5
+  },
+  {
+    "Id": 42,
+    "AssetKey": "ak_diy_com_2dfireworks",
+    "Is3D": true,
+    "Style": "special_2",
+    "Type": 5
+  },
+  {
+    "Id": 43,
+    "AssetKey": "ak_diy_com_fireworksbluepion",
+    "Is3D": true,
+    "Style": "special_10",
+    "Type": 5
+  },
+  {
+    "Id": 44,
+    "AssetKey": "ak_diy_com_floatinglight_spot",
+    "Is3D": true,
+    "Style": "special_5",
+    "Type": 5
+  },
+  {
+    "Id": 45,
+    "AssetKey": "ak_diy_com_floatinglight_stripe",
+    "Is3D": true,
+    "Style": "special_9",
+    "Type": 5
+  },
+  {
+    "Id": 46,
+    "AssetKey": "ak_diy_com_windowshadow",
+    "Is3D": false,
+    "Style": "special_4",
+    "Type": 5
+  },
+  {
+    "Id": 47,
+    "AssetKey": "ak_diy_com_timegardenclock",
+    "Is3D": false,
+    "Style": "clock_8",
+    "Type": 2
+  },
+  {
+    "Id": 48,
+    "AssetKey": "ak_diy_com_woodclock_new",
+    "Is3D": false,
+    "Style": "clock_2",
+    "Type": 2
+  },
+  {
+    "Id": 49,
+    "AssetKey": "ak_diy_com_star_new",
+    "Is3D": false,
+    "Style": "special_11",
+    "Type": 5
+  },
+  {
+    "Id": 50,
+    "AssetKey": "ak_diy_com_diybutterfly",
+    "Is3D": true,
+    "Style": "special_12",
+    "Type": 5
+  },
+  {
+    "Id": 51,
+    "AssetKey": "ak_diy_com_weatherdigitalsimplicity",
+    "Is3D": false,
+    "Style": "weather_13",
+    "Type": 1
+  },
+  {
+    "Id": 52,
+    "AssetKey": "ak_diy_com_turnpageclock",
+    "Is3D": false,
+    "Style": "clock_9",
+    "Type": 2
+  },
+  {
+    "Id": 53,
+    "AssetKey": "ak_diy_com_neondialdiscclock",
+    "Is3D": false,
+    "Style": "clock_10",
+    "Type": 2
+  },
+  {
+    "Id": 54,
+    "AssetKey": "ak_diy_com_neonlightboxclock",
+    "Is3D": false,
+    "Style": "clock_11",
+    "Type": 2
+  },
+  {
+    "Id": 55,
+    "AssetKey": "ak_diy_com_neondialclock",
+    "Is3D": false,
+    "Style": "clock_12",
+    "Type": 2
+  },
+  {
+    "Id": 56,
+    "AssetKey": "ak_diy_com_starryskyclock",
+    "Is3D": false,
+    "Style": "clock_13",
+    "Type": 2
+  },
+  {
+    "Id": 57,
+    "AssetKey": "ak_diy_com_lightandshadowyellowclock",
+    "Is3D": false,
+    "Style": "clock_14",
+    "Type": 2
+  },
+  {
+    "Id": 58,
+    "AssetKey": "ak_diy_com_lightandshadowblueclock",
+    "Is3D": false,
+    "Style": "clock_15",
+    "Type": 2
+  },
+  {
+    "Id": 59,
+    "AssetKey": "ak_diy_com_voiceadventure",
+    "Is3D": false,
+    "Style": "",
+    "Type": 8
+  },
+  {
+    "Id": 60,
+    "AssetKey": "ak_diy_com_voicedefault",
+    "Is3D": false,
+    "Style": "other_3",
+    "Type": 8
+  },
+  {
+    "Id": 61,
+    "AssetKey": "ak_diy_com_voicedoodle",
+    "Is3D": false,
+    "Style": "other_5",
+    "Type": 8
+  },
+  {
+    "Id": 62,
+    "AssetKey": "ak_diy_com_voicefantasyland",
+    "Is3D": false,
+    "Style": "",
+    "Type": 8
+  },
+  {
+    "Id": 63,
+    "AssetKey": "ak_diy_com_voicegalaxy",
+    "Is3D": false,
+    "Style": " ",
+    "Type": 8
+  },
+  {
+    "Id": 64,
+    "AssetKey": "ak_diy_com_voicegarden",
+    "Is3D": false,
+    "Style": "",
+    "Type": 8
+  },
+  {
+    "Id": 65,
+    "AssetKey": "ak_diy_com_voicelandscape",
+    "Is3D": false,
+    "Style": "other_7",
+    "Type": 8
+  },
+  {
+    "Id": 66,
+    "AssetKey": "ak_diy_com_voicemeteor_shower",
+    "Is3D": false,
+    "Style": "other_6",
+    "Type": 8
+  },
+  {
+    "Id": 67,
+    "AssetKey": "ak_diy_com_voicemicro3d",
+    "Is3D": false,
+    "Style": "other_4",
+    "Type": 8
+  },
+  {
+    "Id": 68,
+    "AssetKey": "ak_diy_com_voiceneon",
+    "Is3D": false,
+    "Style": "other_1",
+    "Type": 8
+  },
+  {
+    "Id": 69,
+    "AssetKey": "ak_diy_com_voicestreamer",
+    "Is3D": false,
+    "Style": "other_2",
+    "Type": 8
+  },
+  {
+    "Id": 70,
+    "AssetKey": "ak_diy_com_musicadventure",
+    "Is3D": false,
+    "Style": "",
+    "Type": 7
+  },
+  {
+    "Id": 71,
+    "AssetKey": "ak_diy_com_musicdefault",
+    "Is3D": false,
+    "Style": "music_3",
+    "Type": 7
+  },
+  {
+    "Id": 72,
+    "AssetKey": "ak_diy_com_musicdoodle",
+    "Is3D": false,
+    "Style": "music_5",
+    "Type": 7
+  },
+  {
+    "Id": 73,
+    "AssetKey": "ak_diy_com_musicfantasyland",
+    "Is3D": false,
+    "Style": " ",
+    "Type": 7
+  },
+  {
+    "Id": 74,
+    "AssetKey": "ak_diy_com_musicgalaxy",
+    "Is3D": false,
+    "Style": "",
+    "Type": 7
+  },
+  {
+    "Id": 75,
+    "AssetKey": "ak_diy_com_musicgarden",
+    "Is3D": false,
+    "Style": "",
+    "Type": 7
+  },
+  {
+    "Id": 76,
+    "AssetKey": "ak_diy_com_musiclandscape",
+    "Is3D": false,
+    "Style": "music_7",
+    "Type": 7
+  },
+  {
+    "Id": 77,
+    "AssetKey": "ak_diy_com_musicmeteor_shower",
+    "Is3D": false,
+    "Style": "music_6",
+    "Type": 7
+  },
+  {
+    "Id": 78,
+    "AssetKey": "ak_diy_com_musicmicro3d",
+    "Is3D": false,
+    "Style": "music_4",
+    "Type": 7
+  },
+  {
+    "Id": 79,
+    "AssetKey": "ak_diy_com_musicneon",
+    "Is3D": false,
+    "Style": "music_1",
+    "Type": 7
+  },
+  {
+    "Id": 80,
+    "AssetKey": "ak_diy_com_musicstreamer",
+    "Is3D": false,
+    "Style": "music_2",
+    "Type": 7
+  },
+  {
+    "Id": 81,
+    "AssetKey": "ak_diy_com_clockadventure",
+    "Is3D": false,
+    "Style": "",
+    "Type": 2
+  },
+  {
+    "Id": 82,
+    "AssetKey": "ak_diy_com_clockdefault",
+    "Is3D": false,
+    "Style": "clock_18",
+    "Type": 2
+  },
+  {
+    "Id": 83,
+    "AssetKey": "ak_diy_com_clockdoodle",
+    "Is3D": false,
+    "Style": "clock_21",
+    "Type": 2
+  },
+  {
+    "Id": 84,
+    "AssetKey": "ak_diy_com_clockfantasyland",
+    "Is3D": false,
+    "Style": "",
+    "Type": 2
+  },
+  {
+    "Id": 85,
+    "AssetKey": "ak_diy_com_clockgalaxy",
+    "Is3D": false,
+    "Style": "",
+    "Type": 2
+  },
+  {
+    "Id": 86,
+    "AssetKey": "ak_diy_com_clockgarden",
+    "Is3D": true,
+    "Style": "",
+    "Type": 2
+  },
+  {
+    "Id": 87,
+    "AssetKey": "ak_diy_com_clocklandscape",
+    "Is3D": false,
+    "Style": "clock_22",
+    "Type": 2
+  },
+  {
+    "Id": 88,
+    "AssetKey": "ak_diy_com_clockmeteor_shower",
+    "Is3D": false,
+    "Style": "clock_20",
+    "Type": 2
+  },
+  {
+    "Id": 89,
+    "AssetKey": "ak_diy_com_clockmicro3d",
+    "Is3D": true,
+    "Style": "clock_19",
+    "Type": 2
+  },
+  {
+    "Id": 90,
+    "AssetKey": "ak_diy_com_clockneon",
+    "Is3D": false,
+    "Style": "clock_17",
+    "Type": 2
+  },
+  {
+    "Id": 91,
+    "AssetKey": "ak_diy_com_clockstreamer",
+    "Is3D": false,
+    "Style": "clock_16",
+    "Type": 2
+  },
+  {
+    "Id": 92,
+    "AssetKey": "ak_diy_com_weatheradventure",
+    "Is3D": false,
+    "Style": "",
+    "Type": 1
+  },
+  {
+    "Id": 93,
+    "AssetKey": "ak_diy_com_weatherdefaulttype",
+    "Is3D": false,
+    "Style": "weather_16",
+    "Type": 1
+  },
+  {
+    "Id": 94,
+    "AssetKey": "ak_diy_com_weatherdoodle",
+    "Is3D": false,
+    "Style": "weather_18",
+    "Type": 1
+  },
+  {
+    "Id": 95,
+    "AssetKey": "ak_diy_com_weatherfantasyland",
+    "Is3D": false,
+    "Style": "",
+    "Type": 1
+  },
+  {
+    "Id": 96,
+    "AssetKey": "ak_diy_com_weathergalaxy",
+    "Is3D": false,
+    "Style": "",
+    "Type": 1
+  },
+  {
+    "Id": 97,
+    "AssetKey": "ak_diy_com_weathergarden",
+    "Is3D": false,
+    "Style": "",
+    "Type": 1
+  },
+  {
+    "Id": 98,
+    "AssetKey": "ak_diy_com_weatherlandscape",
+    "Is3D": false,
+    "Style": "weather_20",
+    "Type": 1
+  },
+  {
+    "Id": 99,
+    "AssetKey": "ak_diy_com_weathermeteor_shower",
+    "Is3D": false,
+    "Style": "weather_19",
+    "Type": 1
+  },
+  {
+    "Id": 100,
+    "AssetKey": "ak_diy_com_weathermicro3d",
+    "Is3D": false,
+    "Style": "weather_17",
+    "Type": 1
+  },
+  {
+    "Id": 101,
+    "AssetKey": "ak_diy_com_weatherneontype",
+    "Is3D": false,
+    "Style": "weather_14",
+    "Type": 1
+  },
+  {
+    "Id": 102,
+    "AssetKey": "ak_diy_com_weatherstreamer",
+    "Is3D": false,
+    "Style": "weather_15",
+    "Type": 1
+  }
+]

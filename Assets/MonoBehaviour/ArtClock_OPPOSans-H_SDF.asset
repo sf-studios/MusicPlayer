@@ -1,0 +1,154 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+  m_Name: "ArtClock_OPPOSans-H_SDF"
+  m_EditorClassIdentifier: 
+  hashCode: -1523852940
+  material: {fileID: 2100000, guid: 40c17441566e480fa7c37c2e43ed92db, type: 2}
+  materialHashCode: -18122156
+  m_Version: "1.1.0"
+  m_SourceFontFileGUID: "7cc746eb5ac123146b3f110889c2e00d"
+  m_SourceFontFile_EditorRef: {fileID: 12800000, guid: 3193a8b50b4040b798302b85bcd9149d, type: 3}
+  m_SourceFontFile: {fileID: 0}
+  m_AtlasPopulationMode: 1330663503
+  m_FaceInfo:
+    m_FaceIndex: 1936613715
+    m_FamilyName: "Heavy"
+    m_StyleName: 
+    m_PointSize: 0
+    m_Scale: 0
+    m_LineHeight: 0
+    m_AscentLine: 0
+    m_CapLine: 1
+    m_MeanLine: 0
+    m_Baseline: 1.961818E-44
+    m_DescentLine: 55.15625
+    m_SuperscriptOffset: 74.60938
+    m_SuperscriptSize: 6.9375
+    m_SubscriptOffset: 67.40625
+    m_SubscriptSize: 66.15625
+    m_UnderlineOffset: 6.782285E-43
+    m_UnderlineThickness: 1.401298E-44
+    m_StrikethroughOffset: 7.987401E-44
+    m_StrikethroughThickness: 1.064987E-43
+    m_TabWidth: 1
+  m_GlyphTable: []
+  m_CharacterTable:
+  - m_ElementType: 1110962176
+    m_Unicode: 1117075456
+    m_GlyphIndex: 1088290816
+    m_Scale: 67.40625
+  - m_ElementType: 1114312704
+    m_Unicode: 320
+    m_GlyphIndex: 10
+    m_Scale: 6.586103E-44
+  - m_ElementType: 76
+    m_Unicode: 1065353216
+    m_GlyphIndex: 0
+    m_Scale: 9.668959E-44
+  - m_ElementType: 1117499392
+    m_Unicode: 1117075456
+    m_GlyphIndex: 1088290816
+    m_Scale: 67.40625
+  - m_ElementType: 1119315968
+    m_Unicode: 386
+    m_GlyphIndex: 10
+    m_Scale: 1.107026E-43
+  - m_ElementType: 76
+    m_Unicode: 1065353216
+    m_GlyphIndex: 0
+    m_Scale: 9.949219E-44
+  - m_ElementType: 1114808320
+    m_Unicode: 1117075456
+    m_GlyphIndex: 1088290816
+    m_Scale: 67.40625
+  - m_ElementType: 1117063168
+    m_Unicode: 151
+    m_GlyphIndex: 10
+    m_Scale: 8.68805E-44
+  - m_ElementType: 76
+    m_Unicode: 1065353216
+    m_GlyphIndex: 0
+    m_Scale: 1.079E-43
+  - m_ElementType: 1116237824
+    m_Unicode: 1117392896
+    m_GlyphIndex: 1083736064
+    m_Scale: 68.57813
+  - m_ElementType: 1117489152
+    m_Unicode: 10
+    m_GlyphIndex: 45
+    m_Scale: 9.668959E-44
+  - m_ElementType: 78
+    m_Unicode: 1065353216
+    m_GlyphIndex: 0
+    m_Scale: 1.303208E-43
+  - m_ElementType: 1113911296
+    m_Unicode: 1117075456
+    m_GlyphIndex: 1088290816
+    m_Scale: 67.40625
+  - m_ElementType: 1115836416
+    m_Unicode: 560
+    m_GlyphIndex: 10
+    m_Scale: 8.267661E-44
+  - m_ElementType: 76
+    m_Unicode: 1065353216
+    m_GlyphIndex: 0
+    m_Scale: 1.765636E-43
+  - m_ElementType: 1116119040
+    m_Unicode: 1117075456
+    m_GlyphIndex: 1072824320
+    m_Scale: 67.40625
+  - m_ElementType: 1116614656
+    m_Unicode: 232
+    m_GlyphIndex: 10
+    m_Scale: 9.668959E-44
+  - m_ElementType: 76
+    m_Unicode: 1065353216
+    m_GlyphIndex: 0
+    m_Scale: 6.361895E-43
+  - m_ElementType: 1105666048
+    m_Unicode: 1117075456
+    m_GlyphIndex: 1085833216
+    m_Scale: 67.40625
+  - m_ElementType: 1110941696
+    m_Unicode: 98
+    m_GlyphIndex: 45
+    m_Scale: 4.203895E-44
+  - m_ElementType: 76
+    m_Unicode: 1065353216
+    m_GlyphIndex: 0
+    m_Scale: 6.445973E-43
+  - m_ElementType: 1111953408
+    m_Unicode: 1117075456
+    m_GlyphIndex: 1085440000
+    m_Scale: 67.40625
+  - m_ElementType: 1114902528
+    m_Unicode: 638
+    m_GlyphIndex: 10
+    m_Scale: 7.146622E-44
+  - m_ElementType: 76
+    m_Unicode: 1065353216
+    m_GlyphIndex: 0
+    m_Scale: 7.482934E-43
+  - m_ElementType: 1117204480
+    m_Unicode: 1098350592
+    m_GlyphIndex: 1088847872
+    m_Scale: 7.734375
+  - m_ElementType: 1119092736
+    m_Unicode: 10
+    m_GlyphIndex: 10
+    m_Scale: 1.064987E-43
+  - m_ElementType: 16
+    m_Unicode: 1065353216
+    m_GlyphIndex: 0
+    m_Scale: 9.24857E-43
+  m_AtlasTextures: []

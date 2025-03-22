@@ -1,0 +1,170 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+  m_Name: "BebasTurnPage"
+  m_EditorClassIdentifier: 
+  hashCode: 1874043193
+  material: {fileID: 2100000, guid: 81a11bc6c85444e2b103ae8557ef217e, type: 2}
+  materialHashCode: -2146078343
+  m_Version: "1.1.0"
+  m_SourceFontFileGUID: "5b8d2aa3db1a1b249a88e34d1bd65e86"
+  m_SourceFontFile_EditorRef: {fileID: 12800000, guid: b1d6924ddb664decbc356af6d2bf5632, type: 3}
+  m_SourceFontFile: {fileID: 0}
+  m_AtlasPopulationMode: 1633838402
+  m_FaceInfo:
+    m_FaceIndex: 115
+    m_FamilyName: "Regular"
+    m_StyleName: 
+    m_PointSize: 10
+    m_Scale: 1.345247E-43
+    m_LineHeight: 4.904545E-44
+    m_AscentLine: 9.10844E-44
+    m_CapLine: 1
+    m_MeanLine: 0
+    m_Baseline: 2.242078E-44
+    m_DescentLine: 44.34375
+    m_SuperscriptOffset: 64.40625
+    m_SuperscriptSize: 5.34375
+    m_SubscriptOffset: 64.40625
+    m_SubscriptSize: 55.01563
+    m_UnderlineOffset: 1.401298E-44
+    m_UnderlineThickness: 2.522337E-43
+    m_StrikethroughOffset: 6.305843E-44
+    m_StrikethroughThickness: 9.10844E-44
+    m_TabWidth: 1
+  m_GlyphTable: []
+  m_CharacterTable:
+  - m_ElementType: 1106919424
+    m_Unicode: 1115977728
+    m_GlyphIndex: 1082818560
+    m_Scale: 65.3125
+  - m_ElementType: 1109372928
+    m_Unicode: 10
+    m_GlyphIndex: 10
+    m_Scale: 4.484155E-44
+  - m_ElementType: 67
+    m_Unicode: 1065353216
+    m_GlyphIndex: 0
+    m_Scale: 8.547921E-44
+  - m_ElementType: 1108553728
+    m_Unicode: 1088585728
+    m_GlyphIndex: 0
+    m_Scale: -3.6875
+  - m_ElementType: 1108553728
+    m_Unicode: 61
+    m_GlyphIndex: 10
+    m_Scale: 5.184804E-44
+  - m_ElementType: 8
+    m_Unicode: 1065353216
+    m_GlyphIndex: 0
+    m_Scale: 5.605194E-45
+  - m_ElementType: 1
+    m_Unicode: 48
+    m_GlyphIndex: 30
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 65
+    m_GlyphIndex: 4
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 77
+    m_GlyphIndex: 16
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 95
+    m_GlyphIndex: 61
+    m_Scale: 1
+  - m_ElementType: 2
+    m_Unicode: 0
+    m_GlyphIndex: 4141521697
+    m_Scale: -9.915963E-38
+  - m_ElementType: 0
+    m_Unicode: 0
+    m_GlyphIndex: 0
+    m_Scale: 0
+  - m_ElementType: 1
+    m_Unicode: 1
+    m_GlyphIndex: 4
+    m_Scale: 0
+  - m_ElementType: 0
+    m_Unicode: 51
+    m_GlyphIndex: 86
+    m_Scale: 0
+  - m_ElementType: 86
+    m_Unicode: 54
+    m_GlyphIndex: 84
+    m_Scale: 0
+  - m_ElementType: 170
+    m_Unicode: 64
+    m_GlyphIndex: 84
+    m_Scale: 7.146622E-44
+  - m_ElementType: 0
+    m_Unicode: 56
+    m_GlyphIndex: 27
+    m_Scale: 7.006492E-45
+  - m_ElementType: 0
+    m_Unicode: 254
+    m_GlyphIndex: 255
+    m_Scale: 1.401298E-45
+  - m_ElementType: 51
+    m_Unicode: 27
+    m_GlyphIndex: 204
+    m_Scale: 8.267661E-44
+  - m_ElementType: 54
+    m_Unicode: 27
+    m_GlyphIndex: 201
+    m_Scale: 2.003857E-43
+  - m_ElementType: 64
+    m_Unicode: 27
+    m_GlyphIndex: 191
+    m_Scale: 3.19496E-43
+  - m_ElementType: 107
+    m_Unicode: 0
+    m_GlyphIndex: 148
+    m_Scale: 3.573311E-43
+  - m_ElementType: 0
+    m_Unicode: 0
+    m_GlyphIndex: 0
+    m_Scale: 0
+  - m_ElementType: 0
+    m_Unicode: 0
+    m_GlyphIndex: 0
+    m_Scale: 0
+  - m_ElementType: 0
+    m_Unicode: 0
+    m_GlyphIndex: 0
+    m_Scale: 0
+  - m_ElementType: 0
+    m_Unicode: 0
+    m_GlyphIndex: 0
+    m_Scale: 0
+  - m_ElementType: 0
+    m_Unicode: 0
+    m_GlyphIndex: 0
+    m_Scale: 0
+  - m_ElementType: 0
+    m_Unicode: 0
+    m_GlyphIndex: 0
+    m_Scale: 0
+  - m_ElementType: 256
+    m_Unicode: 256
+    m_GlyphIndex: 9
+    m_Scale: 5.836408E-42
+  - m_ElementType: 0
+    m_Unicode: 0
+    m_GlyphIndex: 0
+    m_Scale: 0
+  m_AtlasTextures: []
+  m_AtlasTextureIndex: 0
+  m_IsMultiAtlasTexturesEnabled: 1
+  m_ClearDynamicDataOnBuild: 1
+  m_UsedGlyphRects: []

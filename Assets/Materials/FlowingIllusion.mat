@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: "FlowingIllusion"
+  m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords: "_ALPHA_KEY0 _COLOR_KEY0 _GIRDSWITCH1_ON"
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BaseMap:
+        m_Texture: {fileID: 2800000, guid: 65b566fa6fa64093a5a8d61c71032765, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMap:
+        m_Texture: {fileID: 2800000, guid: 8fa0f882918449e19363e83f65e84585, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TwistMap:
+        m_Texture: {fileID: 2800000, guid: 46b781ea9bf14f988a8644e45ae7d7ac, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Alpha: 0
+    - _AlphaCutoff: 0.5
+    - _BrightIntensity: 0.34
+    - _BrightIntensity1: 1
+    - _Color: 0
+    - _DetailMapBrightIntensity: 0.34
+    - _DetailMapBrightIntensity1: 0.34
+    - _DetailMapIntensity: 0.9
+    - _DetailMapIntensity1: 0.9
+    - _DetailMapScale: 0.9
+    - _DetailMapScalex: 10
+    - _DetailMapScalex1: 10
+    - _DetailMapYSpeed: 0.1
+    - _DetailMapYSpeed1: 0.1
+    - _Float0: 0.5
+    - _Float1: 0.9
+    - _Float12: 0
+    - _Float15: 0.02
+    - _Float16: 0.33
+    - _Float4: 2
+    - _Float5: 2
+    - _Float6: 0.45
+    - _Float7: 0
+    - _Float9: 0.15
+    - _GirdSwitch: 0
+    - _GirdSwitch1: 1
+    - _Height: 1
+    - _HeightLayer2: 1
+    - _HeightTwist: -0.1
+    - _Hight: 1
+    - _HightLightIntensity: 2
+    - _HightLightIntensity1: 2
+    - _HightLightMaskRange: 1.55
+    - _HightLightMaskRange1: 1.55
+    - _HightPosition: 0.821
+    - _HightRange: 0.797
+    - _Intensity: 1
+    - _Jitter: 0
+    - _Lashen: 0.5
+    - _LowLayer2: 0.5
+    - _LowPosition: 0.5094118
+    - _LowRange: 0.867
+    - _Max: 0.418
+    - _Mid: 0.5
+    - _Mid1: 0.4
+    - _MidLayer2: 1
+    - _MidPosition: 0.503
+    - _MidRange: 0
+    - _MidTwist: 0.29
+    - _Min: 0.301
+    - _OffsetYY: 7.65
+    - _Position: 0.574
+    - _Range: 0.846
+    - _Scale: 11.6
+    - _Scalex: 10
+    - _Seed: 3.19
+    - _Seed1: 3.19
+    - _Speed: 0.1
+    - _Spped2: 0.05
+    - _Step: 0.35
+    - _Step1: 0.35
+    - _TessEdgeLength: 16
+    - _TessMax: 25
+    - _TessMaxDisp: 25
+    - _TessMin: 10
+    - _TessPhongStrength: 0.5
+    - _TessValue: 16
+    - _TwistIntensity: 0.5
+    - _UP: 1
+    - _UVSpeed: 6
+    - _XMove: -0.29
+    - _XRepeat: 30
+    - _XRepeat1: 30
+    - _low: 0.55
+    - _low1: 0.55
+    m_Colors:
+    - _DetailMapYSpeed: {r: 0, g: 0.1, b: 0, a: 0}
+    - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
+    - _MaskSpeed: {r: 0, g: 0.1, b: 0, a: 0}
+    - _MaskTilling: {r: 1, g: 1, b: 0, a: 0}
+    - _RGBOffset: {r: 0, g: 0, b: 0, a: 0}

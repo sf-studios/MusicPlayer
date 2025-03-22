@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+  m_Name: "OPPOSans-R SDF"
+  m_EditorClassIdentifier: 
+  hashCode: -1224413375
+  material: {fileID: 2100000, guid: 8914743ef5cb4ca5b6cf131325d012c0, type: 2}
+  materialHashCode: 276825281
+  m_Version: "1.1.0"
+  m_SourceFontFileGUID: "e3da2efc23986524bad16ebe250229c7"
+  m_SourceFontFile_EditorRef: {fileID: 12800000, guid: 4d2763a9fe214b458cf69aa7da017eb7, type: 3}
+  m_SourceFontFile: {fileID: 0}
+  m_AtlasPopulationMode: 1330663503
+  m_FaceInfo:
+    m_FaceIndex: 1936613715
+    m_FamilyName: "Regular"
+    m_StyleName: 
+    m_PointSize: 1099956224
+    m_Scale: 3.363116E-44
+    m_LineHeight: 1.401298E-45
+    m_AscentLine: 0
+    m_CapLine: 0
+    m_MeanLine: 0
+    m_Baseline: 0
+    m_DescentLine: 17.64063
+    m_SuperscriptOffset: 0
+    m_SuperscriptSize: 0
+    m_SubscriptOffset: 0
+    m_SubscriptSize: 0
+    m_UnderlineOffset: 1
+    m_UnderlineThickness: 0
+    m_StrikethroughOffset: 6.347882E-43
+    m_StrikethroughThickness: 31.20313
+    m_TabWidth: 48.54688
+  m_GlyphTable: []

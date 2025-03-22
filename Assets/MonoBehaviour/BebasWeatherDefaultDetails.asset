@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+  m_Name: "BebasWeatherDefaultDetails"
+  m_EditorClassIdentifier: 
+  hashCode: 1517346694
+  material: {fileID: 2100000, guid: 6ddf4e585536414a8f02c2ca7bd7255a, type: 2}
+  materialHashCode: -1389927578
+  m_Version: "1.1.0"
+  m_SourceFontFileGUID: "5b8d2aa3db1a1b249a88e34d1bd65e86"
+  m_SourceFontFile_EditorRef: {fileID: 0}
+  m_SourceFontFile: {fileID: 0}
+  m_AtlasPopulationMode: 1633838402
+  m_FaceInfo:
+    m_FaceIndex: 115
+    m_FamilyName: "Regular"
+    m_StyleName: 
+    m_PointSize: 84
+    m_Scale: 2.480298E-43
+    m_LineHeight: 1
+    m_AscentLine: 0
+    m_CapLine: 4.764415E-44
+    m_MeanLine: 90.28125
+    m_Baseline: 170.7969
+    m_DescentLine: 5.859375
+    m_SuperscriptOffset: 170.7969
+    m_SuperscriptSize: 101.5
+    m_SubscriptOffset: 4.498168E-43
+    m_SubscriptSize: 1.401298E-44
+    m_UnderlineOffset: 1.289195E-43
+    m_UnderlineThickness: 2.39622E-43
+    m_StrikethroughOffset: 1
+    m_StrikethroughThickness: 0
+    m_TabWidth: 4.904545E-44
+  m_GlyphTable: []

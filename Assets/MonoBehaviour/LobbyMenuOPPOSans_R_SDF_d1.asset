@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+  m_Name: "LobbyMenuOPPOSans_R_SDF"
+  m_EditorClassIdentifier: 
+  hashCode: 785315589
+  material: {fileID: 2100000, guid: 461847261ef740558f7cfefd7ccca310, type: 2}
+  materialHashCode: 1697748357
+  m_Version: "1.1.0"
+  m_SourceFontFileGUID: "e3da2efc23986524bad16ebe250229c7"
+  m_SourceFontFile_EditorRef: {fileID: 12800000, guid: 4d2763a9fe214b458cf69aa7da017eb7, type: 3}
+  m_SourceFontFile: {fileID: 0}
+  m_AtlasPopulationMode: 1330663503
+  m_FaceInfo:
+    m_FaceIndex: 1936613715
+    m_FamilyName: "Regular"
+    m_StyleName: 
+    m_PointSize: 1056964608
+    m_Scale: -4
+    m_LineHeight: 2
+    m_AscentLine: 8.4
+    m_CapLine: 2
+    m_MeanLine: 12
+    m_Baseline: 4.484155E-44
+    m_DescentLine: 7.482934E-43
+    m_SuperscriptOffset: 30.875
+    m_SuperscriptSize: 4.203125
+    m_SubscriptOffset: 4.5625
+    m_SubscriptSize: 1.71875
+    m_UnderlineOffset: 40
+    m_UnderlineThickness: 1.401298E-44
+    m_StrikethroughOffset: 4.484155E-44
+    m_StrikethroughThickness: 4.484155E-44
+    m_TabWidth: 7.006492E-45
+  m_GlyphTable: []

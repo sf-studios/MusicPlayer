@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2014397888, guid: 10000000000000000000000000000000, type: 3}
+  m_Name: "ZoneCfg"
+  m_EditorClassIdentifier: 
+  navPrefabKey: "ak_zone_nav"
+  configs:
+  - type: 0
+    placeholderKey: "ak_zone_lobby_placeholder"
+    darkPlaceholderKey: 
+    placeholder: {fileID: 2800000, guid: ba9f88e4a7c34eb5bd2354c21ef04f70, type: 3}
+    darkPlaceholder: {fileID: 0}
+    wordKey: 300
+    iconKey: "ak_zone_lobby_icon"
+    icon: {fileID: 21300000, guid: 45107b092adc4bc5b92ae65afbf67c00, type: 3}
+    prefabKey: "ak_zone_lobby"
+    midColor: {r: 0.145098, g: 0.145098, b: 0.145098, a: 1}
+    lrColor: {r: 0.0627451, g: 0.0627451, b: 0.0627451, a: 1}
+  - type: 4
+    placeholderKey: "ak_zone_film_placeholder"
+    darkPlaceholderKey: "ak_zone_dark_film_placeholder"
+    placeholder: {fileID: 2800000, guid: 8e443723538a42019eea36f449882caa, type: 3}
+    darkPlaceholder: {fileID: 2800000, guid: 282c6d068ee44aceb65cea820db83611, type: 3}
+    wordKey: 266
+    iconKey: "ak_zone_film_icon"
+    icon: {fileID: 21300000, guid: a2ce8a58ecad4423bf731bcce0a15d38, type: 3}
+    prefabKey: "ak_zone_film"
+    midColor: {r: 0.145098, g: 0.145098, b: 0.145098, a: 1}
+    lrColor: {r: 0.0627451, g: 0.0627451, b: 0.0627451, a: 1}
+  - type: 1
+    placeholderKey: "ak_zone_music_placeholder"
+    darkPlaceholderKey: 
+    placeholder: {fileID: 2800000, guid: 93a9e43299514fab9a0ab76e042eb95d, type: 3}
+    darkPlaceholder: {fileID: 0}
+    wordKey: 267
+    iconKey: "ak_zone_music_icon"
+    icon: {fileID: 21300000, guid: c74e1a13fb1741da998c4eea47f90552, type: 3}
+    prefabKey: "ak_zone_music"
+    midColor: {r: 0.145098, g: 0.145098, b: 0.145098, a: 1}
+    lrColor: {r: 0.0627451, g: 0.0627451, b: 0.0627451, a: 1}
+  - type: 2
+    placeholderKey: "ak_zone_health_placeholder"
+    darkPlaceholderKey: 
+    placeholder: {fileID: 2800000, guid: 87577c0762fb4b2eaa3d656477b2a3fb, type: 3}
+    darkPlaceholder: {fileID: 0}
+    wordKey: 268
+    iconKey: "ak_zone_health_icon"
+    icon: {fileID: 21300000, guid: ce8613319c9346baa746a04b61bcb374, type: 3}
+    prefabKey: "ak_zone_health"
+    midColor: {r: 0.145098, g: 0.145098, b: 0.145098, a: 1}
+    lrColor: {r: 0.0627451, g: 0.0627451, b: 0.0627451, a: 1}
+  - type: 3
+    placeholderKey: "ak_zone_work_placeholder"
+    darkPlaceholderKey: 
+    placeholder: {fileID: 2800000, guid: ff937a36db6a447bb8294bc0762558b8, type: 3}
+    darkPlaceholder: {fileID: 0}
+    wordKey: 269
+    iconKey: "ak_zone_work_icon"
+    icon: {fileID: 21300000, guid: 89b0fe5235214b569ae5f9c05831e116, type: 3}
+    prefabKey: "ak_zone_work"
+    midColor: {r: 0.145098, g: 0.145098, b: 0.145098, a: 1}
+    lrColor: {r: 0.0627451, g: 0.0627451, b: 0.0627451, a: 1}

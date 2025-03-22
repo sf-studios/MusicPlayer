@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+  m_Name: "Georgia SDF"
+  m_EditorClassIdentifier: 
+  hashCode: -930060895
+  material: {fileID: 2100000, guid: 6b0c72bcd1d544c68f22d0a8cab45ac7, type: 2}
+  materialHashCode: 205813985
+  m_Version: "1.1.0"
+  m_SourceFontFileGUID: "05b8e9748543bc34fb2cab30dc28c90b"
+  m_SourceFontFile_EditorRef: {fileID: 12800000, guid: 8b177bc0c12944809a6e9d561ff7eeb1, type: 3}
+  m_SourceFontFile: {fileID: 0}
+  m_AtlasPopulationMode: 1919903047
+  m_FaceInfo:
+    m_FaceIndex: 6383975
+    m_FamilyName: "Regular"
+    m_StyleName: 
+    m_PointSize: 0
+    m_Scale: 0
+    m_LineHeight: 0
+    m_AscentLine: 0
+    m_CapLine: 1
+    m_MeanLine: 0
+    m_Baseline: 2.382207E-44
+    m_DescentLine: 12.03125
+    m_SuperscriptOffset: 11.95313
+    m_SuperscriptSize: 6.203125
+    m_SubscriptOffset: 11.07813
+    m_SubscriptSize: 24.26563
+    m_UnderlineOffset: 2.045896E-43
+    m_UnderlineThickness: 2.158E-43
+    m_StrikethroughOffset: 1.821688E-44
+    m_StrikethroughThickness: 1.821688E-44
+    m_TabWidth: 1
+  m_GlyphTable: []
+  m_CharacterTable:
+  - m_ElementType: 1111015424
+    m_Unicode: 1112006656
+    m_GlyphIndex: 1083244544
+    m_Scale: 48.5625
+  - m_ElementType: 1113387008
+    m_Unicode: 10
+    m_GlyphIndex: 123
+    m_Scale: 6.586103E-44
+  - m_ElementType: 51
+    m_Unicode: 1065353216
+    m_GlyphIndex: 0
+    m_Scale: 2.802597E-44
+  - m_ElementType: 1106141184
+    m_Unicode: 1111638016
+    m_GlyphIndex: 1085800448
+    m_Scale: 48.5625
+  - m_ElementType: 1109045248
+    m_Unicode: 344
+    m_GlyphIndex: 73
+    m_Scale: 4.344025E-44
+  - m_ElementType: 49
+    m_Unicode: 1065353216
+    m_GlyphIndex: 0
+    m_Scale: 2.942727E-44
+  - m_ElementType: 1109704704
+    m_Unicode: 1111638016
+    m_GlyphIndex: 1083867136
+    m_Scale: 48.5625
+  - m_ElementType: 1112088576
+    m_Unicode: 84
+    m_GlyphIndex: 101
+    m_Scale: 6.025583E-44
+  - m_ElementType: 49
+    m_Unicode: 1065353216
+    m_GlyphIndex: 0
+    m_Scale: 3.082857E-44
+  - m_ElementType: 1109991424
+    m_Unicode: 1115764736
+    m_GlyphIndex: 1077149696
+    m_Scale: 48.5625
+  - m_ElementType: 1111924736
+    m_Unicode: 10
+    m_GlyphIndex: 278
+    m_Scale: 6.165713E-44
+  - m_ElementType: 66
+    m_Unicode: 1065353216
+    m_GlyphIndex: 0
+    m_Scale: 3.222986E-44
+  - m_ElementType: 1110831104
+    m_Unicode: 1115729920
+    m_GlyphIndex: 1074397184
+    m_Scale: 48.29688
+  - m_ElementType: 1112236032
+    m_Unicode: 76
+    m_GlyphIndex: 169
+    m_Scale: 6.445973E-44
+  - m_ElementType: 66
+    m_Unicode: 1065353216
+    m_GlyphIndex: 0
+    m_Scale: 3.363116E-44
+  - m_ElementType: 1109700608
+    m_Unicode: 1115475968
+    m_GlyphIndex: 1076232192
+    m_Scale: 47.15625
+  - m_ElementType: 1111371776
+    m_Unicode: 75
+    m_GlyphIndex: 254
+    m_Scale: 5.885454E-44
+  - m_ElementType: 65
+    m_Unicode: 1065353216
+    m_GlyphIndex: 0
+    m_Scale: 3.503246E-44
+  - m_ElementType: 1110102016
+    m_Unicode: 1115854848
+    m_GlyphIndex: 1083244544
+    m_Scale: 63.89063
+  m_AtlasTextures: []

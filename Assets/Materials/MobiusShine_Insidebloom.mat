@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: "MobiusShine_Insidebloom"
+  m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _ScanMask:
+        m_Texture: {fileID: 2800000, guid: 002b06d9be4c4d17ad269296babf2f2d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AlphaCutoff: 0.5
+    - _AlphaIntensity: 0.65
+    - _Bias: 0
+    - _ColorIntensity: 0.15
+    - _Intensity: 1
+    - _Intensity1: 1.1
+    - _OutlineWidth: 0.2
+    - _OutlineWidth1: 1
+    - _Power: 0.08
+    - _Push: 0.27
+    - _Range: 0
+    - _Range1: 0
+    - _Scale: 1.02
+    - _ScanMaskIntensity: 2.8
+    - _ScanMaskRange: 0
+    - _ScanMaskSmoothness: 0.47
+    - _Smoothness: 0.66
+    - _Smoothness1: 1.15
+    - _SpeedS: -1
+    - _SpeedS1: 2
+    - _UVTime: 0
+    m_Colors:
+    - _BaseColor: {r: 0.3160377, g: 0.5903544, b: 1, a: 1}
+    - _BaseColorA: {r: 0.2264151, g: 0.5037381, b: 0.9056604, a: 0}
+    - _BaseColorA1: {r: 0.2264151, g: 0.5037381, b: 0.9056604, a: 0}
+    - _BaseColorB: {r: 0.9445901, g: 0.1839623, b: 1, a: 0}
+    - _BaseColorB1: {r: 0.9445901, g: 0.1839623, b: 1, a: 0}
+    - _ColorA: {r: 0.3254717, g: 0.5984023, b: 1, a: 0}
+    - _ColorB: {r: 0.9445901, g: 0.1839623, b: 1, a: 0}
+    - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}

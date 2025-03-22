@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &68707889500000
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "LobbyUiMenu"
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: a9d5d1cecbfb4901aa361f7c38d1aa01, type: 3}
+    - {fileID: 21300000, guid: 75560bfb70794376a84edcf94bf3a4e1, type: 3}
+    - {fileID: 21300000, guid: 1e4360b00b3d431fb240cb310a34167b, type: 3}
+    - {fileID: 21300000, guid: fe0c865176234d5c9aec7555f368ae23, type: 3}
+    - {fileID: 21300000, guid: c509bde39bf74e1f958b57f391ceff50, type: 3}
+    - {fileID: 21300000, guid: c66f6d25289247588cd71102ba56f7ab, type: 3}
+    - {fileID: 21300000, guid: aa32f2b8e3534208b238426faf38e71b, type: 3}
+    - {fileID: 21300000, guid: cdd8a6a3bf6242ee9706af65e475a955, type: 3}
+    - {fileID: 21300000, guid: dfdb2258687b4eb0999f6df2baf337b7, type: 3}
+    - {fileID: 21300000, guid: ba8efe9e41aa4c4abb045f2803b45be4, type: 3}
+    - {fileID: 21300000, guid: e40e9f5999d046a386ff01672fb19892, type: 3}
+    - {fileID: 21300000, guid: 3a8249a39bc546ae8f7efd194ff4219c, type: 3}
+    - {fileID: 21300000, guid: cdfa4c5c037d4916b2e54a27e60ce737, type: 3}
+    - {fileID: 21300000, guid: 372acaf1670049c7a2ef97db99ab38e0, type: 3}
+    - {fileID: 21300000, guid: 8840b5d77b6f4685aca11899838b1500, type: 3}
+    - {fileID: 21300000, guid: 2344ec6d814f4ed2847f0aa0a3369e45, type: 3}
+    - {fileID: 21300000, guid: 2598dff6d36e4cc9ae520a27422d75ab, type: 3}
+    - {fileID: 21300000, guid: 91d5ce71f49041c694c611c21a4600fe, type: 3}
+    - {fileID: 21300000, guid: 09b813c245c54498a704e0972e507cf3, type: 3}
+    - {fileID: 21300000, guid: c1b022b886bd427892d0c2c4e89a06b5, type: 3}
+    - {fileID: 21300000, guid: 8c47a54a64954a2683a9644321fa1b1c, type: 3}
+    - {fileID: 21300000, guid: d08823eb8aca43bbb3d09abc7858832f, type: 3}
+    - {fileID: 21300000, guid: b0dc92f6a8324904ba7887fd61e5cdf1, type: 3}
+    - {fileID: 21300000, guid: 4f8efb9747ff42d49f2f473df7959765, type: 3}
+    - {fileID: 21300000, guid: 3e52392a2ce243b68d37d49c6a6842f7, type: 3}
+    - {fileID: 21300000, guid: 527471205fcd4dd88fc24ff4a1b7f911, type: 3}
+    - {fileID: 21300000, guid: 4b3af8e1745343b794b5b20dd2df58c4, type: 3}
+    - {fileID: 21300000, guid: 4345db96d15e4c54b0bd0dcdd8f74dc6, type: 3}
+    - {fileID: 21300000, guid: 2c5a264ecda4452e9f1fc19535b1c9d3, type: 3}
+    - {fileID: 21300000, guid: 78b98527d1cf46fb8aee40afcfb1a356, type: 3}
+    - {fileID: 21300000, guid: 9931eba5840e4157a975acc285ffb750, type: 3}
+    - {fileID: 21300000, guid: 8c71c6c637ee4fe68c132c5ef4cc32fb, type: 3}
+    - {fileID: 21300000, guid: 75b00fb6ccde448dbed4406ae8ec1b70, type: 3}
+    - {fileID: 21300000, guid: 0e7a9ca6902149ac8ce12ae35f8d093a, type: 3}
+    - {fileID: 21300000, guid: 2537149a1fa44530b88eddeeae78c704, type: 3}
+    - {fileID: 21300000, guid: 347b27f47e464bcfb2a0fabd714bc76e, type: 3}
+    - {fileID: 21300000, guid: 97caada9c916439687b0932bd552999e, type: 3}
+    - {fileID: 21300000, guid: 5209fd5e65d8402f98f6a254885a1698, type: 3}
+    - {fileID: 21300000, guid: 13be0a61cc064bc79ce334a96160b0da, type: 3}
+    - {fileID: 21300000, guid: 3a04c9c18a204a3583306a6a5aa8398c, type: 3}
+    - {fileID: 21300000, guid: b69aa77c6d68401d8846f9005732d7e6, type: 3}
+    totalSpriteSurfaceArea: 0
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_Tag: "LobbyUiMenu"
+  m_IsVariant: 0

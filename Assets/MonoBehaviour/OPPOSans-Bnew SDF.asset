@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+  m_Name: "OPPOSans-Bnew SDF"
+  m_EditorClassIdentifier: 
+  hashCode: -1397123251
+  material: {fileID: 2100000, guid: 0325bea5f6a74d0b8fc5c68b4de66f12, type: 2}
+  materialHashCode: -324984755
+  m_Version: "1.1.0"
+  m_SourceFontFileGUID: "61f1734915162ba4c88c5d2721bb4c2e"
+  m_SourceFontFile_EditorRef: {fileID: 12800000, guid: 542162da621c47ffb6404544150c67ec, type: 3}
+  m_SourceFontFile: {fileID: 0}
+  m_AtlasPopulationMode: 1330663503
+  m_FaceInfo:
+    m_FaceIndex: 1936613715
+    m_FamilyName: "Bold"
+    m_StyleName: 
+    m_PointSize: -1053645865
+    m_Scale: 0.5
+    m_LineHeight: -3.5
+    m_AscentLine: 1.75
+    m_CapLine: 7.6
+    m_MeanLine: 1.75
+    m_Baseline: 10
+    m_DescentLine: 0
+    m_SuperscriptOffset: 0
+    m_SuperscriptSize: 1.401298E-45
+    m_SubscriptOffset: 0
+    m_SubscriptSize: 288233.4
+    m_UnderlineOffset: 9.254313E-37
+    m_UnderlineThickness: 0
+    m_StrikethroughOffset: 1.401298E-45
+    m_StrikethroughThickness: 1.401298E-45
+    m_TabWidth: 0
+  m_GlyphTable:
+  - m_Index: 0
+    m_Metrics:
+      m_Width: 0
+      m_Height: 1.433528E-42
+      m_HorizontalBearingX: 1.433528E-42
+      m_HorizontalBearingY: 0
+      m_HorizontalAdvance: 0
+    m_GlyphRect:
+      m_X: 0
+      m_Y: 0
+      m_Width: 0
+      m_Height: 0
+    m_Scale: 0
+    m_AtlasIndex: 0
+  m_CharacterTable: []
+  m_AtlasTextures: []
+  m_AtlasTextureIndex: 0
+  m_IsMultiAtlasTexturesEnabled: 0
+  m_ClearDynamicDataOnBuild: 0
+  m_UsedGlyphRects: []
+  m_FreeGlyphRects: []
+  m_fontInfo:
+    Name: 
+    PointSize: 0
+    Scale: 0
+    CharacterCount: 0
+    LineHeight: 0
+    Baseline: 0
+    Ascender: 0
+    CapHeight: 0
+    Descender: 0
+    CenterLine: 1.43493E-42
+    SuperscriptOffset: 1.43493E-42
+    SubscriptOffset: 1.261169E-44
+    SubSize: 5.836408E-42
+    Underline: 0
+    UnderlineThickness: 0
+    strikethrough: 0
+    strikethroughThickness: 0
+    TabWidth: 1.401298E-45
+    Padding: 0
+    AtlasWidth: 1.223262E-33
+    AtlasHeight: 0.000365326
+  atlas: {fileID: 0}
+  m_AtlasWidth: 959722295
+  m_AtlasHeight: 909194545
+  m_AtlasPadding: 878797362
+  m_AtlasRenderMode: 1664628835
+  m_glyphInfoList: []

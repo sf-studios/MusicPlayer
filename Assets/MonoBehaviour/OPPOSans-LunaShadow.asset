@@ -1,0 +1,160 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+  m_Name: "OPPOSans-LunaShadow"
+  m_EditorClassIdentifier: 
+  hashCode: -1269916782
+  material: {fileID: 2100000, guid: 249bb3b495af49b5b46c17eef3745e01, type: 2}
+  materialHashCode: -1041999630
+  m_Version: "1.1.0"
+  m_SourceFontFileGUID: "d3da7638399ff28429003d3b959d0332"
+  m_SourceFontFile_EditorRef: {fileID: 12800000, guid: 43b5355fdab047b69b7cd0fb84af3f28, type: 3}
+  m_SourceFontFile: {fileID: 0}
+  m_AtlasPopulationMode: 1330663503
+  m_FaceInfo:
+    m_FaceIndex: 1936613715
+    m_FamilyName: "Medium"
+    m_StyleName: 
+    m_PointSize: 10
+    m_Scale: 1.401298E-44
+    m_LineHeight: 1.022948E-43
+    m_AscentLine: 1.821688E-44
+    m_CapLine: 1
+    m_MeanLine: 0
+    m_Baseline: 9.24857E-43
+    m_DescentLine: 26.39063
+    m_SuperscriptOffset: 7.546875
+    m_SuperscriptSize: 0
+    m_SubscriptOffset: -19.84375
+    m_SubscriptSize: 26.39063
+    m_UnderlineOffset: 1.429324E-43
+    m_UnderlineThickness: 1.401298E-44
+    m_StrikethroughOffset: 3.783506E-44
+    m_StrikethroughThickness: 1.261169E-44
+    m_TabWidth: 1
+  m_GlyphTable: []
+  m_CharacterTable:
+  - m_ElementType: 1
+    m_Unicode: 95
+    m_GlyphIndex: 660
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 8230
+    m_GlyphIndex: 534
+    m_Scale: 1
+  m_AtlasTextures:
+  - {fileID: 2800000, guid: 6fda6d1220cd41b2b3f2a0d7ac2e8cf0, type: 3}
+  m_AtlasTextureIndex: 0
+  m_IsMultiAtlasTexturesEnabled: 1
+  m_ClearDynamicDataOnBuild: 1
+  m_UsedGlyphRects:
+  - m_X: 0
+    m_Y: 0
+    m_Width: 92
+    m_Height: 32
+  - m_X: 92
+    m_Y: 0
+    m_Width: 46
+    m_Height: 28
+  m_FreeGlyphRects:
+  - m_X: 0
+    m_Y: 32
+    m_Width: 1023
+    m_Height: 991
+  - m_X: 92
+    m_Y: 28
+    m_Width: 931
+    m_Height: 995
+  - m_X: 138
+    m_Y: 0
+    m_Width: 885
+    m_Height: 1023
+  m_fontInfo:
+    Name: 
+    PointSize: 0
+    Scale: 0
+    CharacterCount: 0
+    LineHeight: 0
+    Baseline: 0
+    Ascender: 0
+    CapHeight: 0
+    Descender: 0
+    CenterLine: 0
+    SuperscriptOffset: 0
+    SubscriptOffset: 0
+    SubSize: 0
+    Underline: 0
+    UnderlineThickness: 0
+    strikethrough: 0
+    strikethroughThickness: 0
+    TabWidth: 0
+    Padding: 0
+    AtlasWidth: 0
+    AtlasHeight: 0
+  atlas: {fileID: 0}
+  m_AtlasWidth: 1024
+  m_AtlasHeight: 1024
+  m_AtlasPadding: 9
+  m_AtlasRenderMode: 4165
+  m_glyphInfoList: []
+  m_KerningTable:
+    kerningPairs: []
+  m_FontFeatureTable:
+    m_GlyphPairAdjustmentRecords: []
+  fallbackFontAssets: []
+  m_FallbackFontAssetTable:
+  - {fileID: 11400000, guid: ebea4fb909be4efba52938fe98188ae3, type: 2}
+  m_CreationSettings:
+    sourceFontFileName: 
+    sourceFontFileGUID: "d3da7638399ff28429003d3b959d0332"
+    pointSizeSamplingMode: 0
+    pointSize: 91
+    padding: 9
+    packingMode: 0
+    atlasWidth: 1024
+    atlasHeight: 1024
+    characterSetSelectionMode: 6
+    characterSequence: 
+    referencedFontAssetGUID: "cb31129ed11ea2741accb637dd71b003"
+    referencedTextAssetGUID: 
+    fontStyle: 0
+    fontStyleModifier: 0
+    renderMode: 4165
+    includeFontFeatures: 0
+  m_FontWeightTable:
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  fontWeights: []
+  normalStyle: 0
+  normalSpacingOffset: 0
+  boldStyle: 0.75
+  boldSpacing: 7
+  italicStyle: 35
+  tabSize: 10

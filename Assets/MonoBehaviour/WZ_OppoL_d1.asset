@@ -1,0 +1,165 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+  m_Name: "WZ_OppoL"
+  m_EditorClassIdentifier: 
+  hashCode: 757898782
+  material: {fileID: 2100000, guid: f12c0fb779bd46a7bdddf93041097d43, type: 2}
+  materialHashCode: -1678606594
+  m_Version: "1.1.0"
+  m_SourceFontFileGUID: "1fc739feb0c9a92459cb6134d267d8fe"
+  m_SourceFontFile_EditorRef: {fileID: 12800000, guid: e3979ebdaa984655b73bd51314b0ce9f, type: 3}
+  m_SourceFontFile: {fileID: 0}
+  m_AtlasPopulationMode: 1330663503
+  m_FaceInfo:
+    m_FaceIndex: 1936613715
+    m_FamilyName: "Light"
+    m_StyleName: 
+    m_PointSize: 0
+    m_Scale: 0
+    m_LineHeight: 0
+    m_AscentLine: 1.401298E-45
+    m_CapLine: 0
+    m_MeanLine: 0
+    m_Baseline: 1.433528E-42
+    m_DescentLine: 1.433528E-42
+    m_SuperscriptOffset: 0
+    m_SuperscriptSize: 0
+    m_SubscriptOffset: 0
+    m_SubscriptSize: 0
+    m_UnderlineOffset: 0
+    m_UnderlineThickness: 0
+    m_StrikethroughOffset: 0
+    m_StrikethroughThickness: 0
+    m_TabWidth: 0
+  m_GlyphTable: []
+  m_CharacterTable: []
+  m_AtlasTextures: []
+  m_AtlasTextureIndex: 0
+  m_IsMultiAtlasTexturesEnabled: 0
+  m_ClearDynamicDataOnBuild: 0
+  m_UsedGlyphRects: []
+  m_FreeGlyphRects: []
+  m_fontInfo:
+    Name: 
+    PointSize: 0
+    Scale: 0
+    CharacterCount: 0
+    LineHeight: 0
+    Baseline: 0
+    Ascender: 0
+    CapHeight: 1.43493E-42
+    Descender: 1.43493E-42
+    CenterLine: 1.261169E-44
+    SuperscriptOffset: 5.836408E-42
+    SubscriptOffset: 0
+    SubSize: 0
+    Underline: 0
+    UnderlineThickness: 0
+    strikethrough: 0
+    strikethroughThickness: 0
+    TabWidth: 4.484155E-44
+    Padding: 1.355405E-05
+    AtlasWidth: 6.794996E+22
+    AtlasHeight: 0.0002166643
+  atlas: {fileID: 0}
+  m_AtlasWidth: 926298724
+  m_AtlasHeight: 1701197924
+  m_AtlasPadding: 1
+  m_AtlasRenderMode: 90
+  m_glyphInfoList:
+  - id: 0
+    x: 1.43493E-42
+    y: 1.43493E-42
+    width: 8.407791E-45
+    height: 0
+    xOffset: 4.484155E-44
+    yOffset: 3.400746E-06
+    xAdvance: 8.402671E+20
+    scale: 8.229675E-10
+  - id: 879124835
+    x: 5.317487E-08
+    y: 5.444996E-05
+    width: 0.0001728208
+    height: 1.342418E-05
+    xOffset: 0
+    yOffset: 0
+    xAdvance: 0
+    scale: 5.836408E-42
+  - id: 0
+    x: 1.401298E-44
+    y: 0
+    width: 0
+    height: 0
+    xOffset: 0
+    yOffset: 0
+    xAdvance: 0
+    scale: 0
+  - id: 0
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+    xOffset: 0
+    yOffset: 0
+    xAdvance: 0
+    scale: 0
+  - id: 0
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+    xOffset: 0
+    yOffset: 0
+    xAdvance: 0
+    scale: 0
+  - id: 0
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+    xOffset: 0
+    yOffset: 0
+    xAdvance: 0
+    scale: 0
+  - id: 0
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+    xOffset: 0
+    yOffset: 0
+    xAdvance: 0
+    scale: 0
+  - id: 0
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+    xOffset: 0
+    yOffset: 0
+    xAdvance: 0
+    scale: 0
+  - id: 0
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+    xOffset: 0
+    yOffset: 0
+    xAdvance: 0
+    scale: 0
+  m_KerningTable:
+    kerningPairs: []
+  m_FontFeatureTable:
+    m_GlyphPairAdjustmentRecords: []
+  fallbackFontAssets: []

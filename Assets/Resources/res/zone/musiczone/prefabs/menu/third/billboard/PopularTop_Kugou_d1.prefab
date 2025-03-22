@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!224 &2307250045522780324
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2918030618875746089, guid: 049fd021c15f4f9abf75091d405d6196, type: 2}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 100, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!1 &2918030618875746089
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2307250045522780324, guid: 049fd021c15f4f9abf75091d405d6196, type: 2}
+  - component: {fileID: -1978761765408719382, guid: 049fd021c15f4f9abf75091d405d6196, type: 2}
+  m_Layer: 5
+  m_Name: "PopularTop_Kugou"
+  m_TagString:
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &-1978761765408719382
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2918030618875746089}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1283757053, guid: 10000000000000000000000000000000, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  source: 1
+  dicSprites:
+    reqReferences: {fileID: 0}
+    isExpanded: 1
+    _keyValues:
+    - "ak_mz_kugou_01_top"
+    - "ak_mz_kugou_02_bs"
+    - "ak_mz_kugou_03_fn"
+    - "ak_mz_kugou_04_dy"
+    - "ak_mz_kugou_05_ks"
+    - "ak_mz_kugou_06_dj"
+    - "ak_mz_kugou_07_rap"
+    - "ak_mz_kugou_08_nd"
+    - "ak_mz_kugou_09_dy"
+    - "ak_mz_kugou_10_xg"
+    - "ak_mz_kugou_11_my"
+    - "ak_mz_kugou_12_tw"
+    - "ak_mz_kugou_13_om"
+    - "ak_mz_kugou_14_acg"
+    - "ak_mz_kugou_15_hg"
+    _keys:
+    - "ak_mz_kugou_01_top"
+    - "ak_mz_kugou_02_bs"
+    - "ak_mz_kugou_03_fn"
+    - "ak_mz_kugou_04_dy"
+    - "ak_mz_kugou_05_ks"
+    - "ak_mz_kugou_06_dj"
+    - "ak_mz_kugou_07_rap"
+    - "ak_mz_kugou_08_nd"
+    - "ak_mz_kugou_09_dy"
+    - "ak_mz_kugou_10_xg"
+    - "ak_mz_kugou_11_my"
+    - "ak_mz_kugou_12_tw"
+    - "ak_mz_kugou_13_om"
+    - "ak_mz_kugou_14_acg"
+    - "ak_mz_kugou_15_hg"
+    _values:
+    - {fileID: 2800000, guid: 2b92dfb17ba24d2393e518ef32efd23f, type: 3}
+    - {fileID: 2800000, guid: 0d51b59f16b84ba0b0f7f979f159e488, type: 3}
+    - {fileID: 2800000, guid: 629f54dc0e2441ad83c9db577214fc00, type: 3}
+    - {fileID: 2800000, guid: 358de44e4edc421b97383b9481bc6ee3, type: 3}
+    - {fileID: 2800000, guid: 6c2bfac95f964dbe95a90c692e287d94, type: 3}
+    - {fileID: 2800000, guid: 68ae20ab97fb4e35b75165a8fd970e1b, type: 3}
+    - {fileID: 2800000, guid: 4c6bf27c227d4acbad022ff55caa76e3, type: 3}
+    - {fileID: 2800000, guid: 906c82d589eb4de7969e095423c64505, type: 3}
+    - {fileID: 2800000, guid: 608a325060c54a11a1a53ac25539291f, type: 3}
+    - {fileID: 2800000, guid: 259462e3b2404993902929a2933a9d52, type: 3}
+    - {fileID: 2800000, guid: 137f210e38c6467e8fda9acdfaeb9449, type: 3}
+    - {fileID: 2800000, guid: e9b03d091bb444bc8e3fc9a06ad6e111, type: 3}
+    - {fileID: 2800000, guid: 35e2fa6e03fb497794b168a68dca10a8, type: 3}
+    - {fileID: 2800000, guid: c671b2741ee3417081d5d7d099ddeffc, type: 3}
+    - {fileID: 2800000, guid: 20ee103bec8c4d21afba1692e59a88a8, type: 3}

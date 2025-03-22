@@ -1,0 +1,106 @@
+{
+    "code":0,
+    "msg":"SUCCESS",
+    "data":{
+        "recommendList":[
+            {
+                "id":1,
+                "name":"栏目名称1",
+                "recommend":[
+                  {
+                    "id": 1,
+                    "title": "推荐位卡片标题1",
+                    "img": "https://img04.sogoucdn.com/app/a/100520076/a5ec7bf55c2e54146b92abf35e1b7503",
+                    "spaceTarget": 1,
+                    "contentType": 1,
+                    "content": "{\"showId\": 123456, \"fullScreenPlay\": 1, \"videoId\": 45678, \"platformType\": 1000}"
+                  },
+                  {
+                    "id": 2,
+                    "title": "推荐位卡片标题2",
+                    "img": "https://img04.sogoucdn.com/app/a/100520076/a5ec7bf55c2e54146b92abf35e1b7503",
+                    "spaceTarget": 1,
+                    "contentType": 1,
+                    "content": "{\"showId\": 123456, \"fullScreenPlay\": 1, \"videoId\": 45678, \"platformType\": 1000}"
+                  },
+                  {
+                    "id": 3,
+                    "title": "推荐位卡片标题3",
+                    "img": "https://img04.sogoucdn.com/app/a/100520076/a5ec7bf55c2e54146b92abf35e1b7503",
+                    "spaceTarget": 1,
+                    "contentType": 1,
+                    "content": "{\"showId\": 123456, \"fullScreenPlay\": 1, \"videoId\": 45678, \"platformType\": 1000}"
+                  }
+                ]
+            },
+			{
+                "id":2,
+                "name":"栏目名称2",
+                "recommend":[
+                  {
+                    "id": 1,
+                    "title": "推荐位卡片标题",
+                    "img": "https://img04.sogoucdn.com/app/a/100520076/a5ec7bf55c2e54146b92abf35e1b7503",
+                    "spaceTarget": 1,
+                    "contentType": 1,
+                    "content": "{\"showId\": 123456, \"fullScreenPlay\": 1, \"videoId\": 45678, \"platformType\": 1000}"
+                  },
+                  {
+                    "id": 2,
+                    "title": "推荐位卡片标题",
+                    "img": "https://img04.sogoucdn.com/app/a/100520076/a5ec7bf55c2e54146b92abf35e1b7503",
+                    "spaceTarget": 1,
+                    "contentType": 1,
+                    "content": "{\"showId\": 123456, \"fullScreenPlay\": 1, \"videoId\": 45678, \"platformType\": 1000}"
+                  },
+                  {
+                    "id": 3,
+                    "title": "推荐位卡片标题",
+                    "img": "https://img04.sogoucdn.com/app/a/100520076/a5ec7bf55c2e54146b92abf35e1b7503",
+                    "spaceTarget": 1,
+                    "contentType": 1,
+                    "content": "{\"showId\": 123456, \"fullScreenPlay\": 1, \"videoId\": 45678, \"platformType\": 1000}"
+                  }
+                  {
+                    "id": 4,
+                    "title": "推荐位卡片标题",
+                    "img": "https://img04.sogoucdn.com/app/a/100520076/a5ec7bf55c2e54146b92abf35e1b7503",
+                    "spaceTarget": 1,
+                    "contentType": 1,
+                    "content": "{\"showId\": 123456, \"fullScreenPlay\": 1, \"videoId\": 45678, \"platformType\": 1000}"
+                  }
+                ]
+            },
+			{
+                "id":3,
+                "name":"栏目名称3",
+                "recommend":[
+                  {
+                    "id": 1,
+                    "title": "推荐位卡片标题",
+                    "img": "https://img04.sogoucdn.com/app/a/100520076/a5ec7bf55c2e54146b92abf35e1b7503",
+                    "spaceTarget": 1,
+                    "contentType": 4,
+                    "content": "{\"showId\": 123456, \"fullScreenPlay\": 1, \"videoId\": 45678, \"platformType\": 1000}"
+                  },
+                  {
+                    "id": 2,
+                    "title": "推荐位卡片标题",
+                    "img": "https://img04.sogoucdn.com/app/a/100520076/a5ec7bf55c2e54146b92abf35e1b7503",
+                    "spaceTarget": 1,
+                    "contentType": 1,
+                    "content": "{\"showId\": 123456, \"fullScreenPlay\": 1, \"videoId\": 45678, \"platformType\": 1000}"
+                  },
+                  {
+                    "id": 3,
+                    "title": "推荐位卡片标题",
+                    "img": "https://img04.sogoucdn.com/app/a/100520076/a5ec7bf55c2e54146b92abf35e1b7503",
+                    "spaceTarget": 1,
+                    "contentType": 1,
+                    "content": "{\"showId\": 123456, \"fullScreenPlay\": 1, \"videoId\": 45678, \"platformType\": 1000}"
+                  }
+                ]
+            }
+        ]
+    }
+}

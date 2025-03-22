@@ -1,0 +1,185 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+  m_Name: "LobbyMenuOPPOSans_L_SDF"
+  m_EditorClassIdentifier: 
+  hashCode: 801082523
+  material: {fileID: 2100000, guid: 44634d96464c4799a8d7499deed19a57, type: 2}
+  materialHashCode: 150516059
+  m_Version: "1.1.0"
+  m_SourceFontFileGUID: "1fc739feb0c9a92459cb6134d267d8fe"
+  m_SourceFontFile_EditorRef: {fileID: 12800000, guid: e3979ebdaa984655b73bd51314b0ce9f, type: 3}
+  m_SourceFontFile: {fileID: 0}
+  m_AtlasPopulationMode: 1330663503
+  m_FaceInfo:
+    m_FaceIndex: 1936613715
+    m_FamilyName: "Light"
+    m_StyleName: 
+    m_PointSize: 1105199104
+    m_Scale: 0.5
+    m_LineHeight: -8.932
+    m_AscentLine: 0.5
+    m_CapLine: -2.8
+    m_MeanLine: 1.4
+    m_Baseline: 6
+    m_DescentLine: 1.4
+    m_SuperscriptOffset: 8
+    m_SuperscriptSize: 1.401298E-44
+    m_SubscriptOffset: 6.347882E-43
+    m_SubscriptSize: 13.78125
+    m_UnderlineOffset: 22.21875
+    m_UnderlineThickness: 1.3125
+    m_StrikethroughOffset: 20.67188
+    m_StrikethroughThickness: 16.4375
+    m_TabWidth: 1.401298E-44
+  m_GlyphTable:
+  - m_Index: 15
+    m_Metrics:
+      m_Width: 3.222986E-44
+      m_Height: 1
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 6.361895E-43
+      m_HorizontalAdvance: 5.6875
+    m_GlyphRect:
+      m_X: 1101856768
+      m_Y: 1066139648
+      m_Width: 1101193216
+      m_Height: 1092993024
+    m_Scale: 1.401298E-44
+    m_AtlasIndex: 52
+  - m_Index: 6
+    m_Metrics:
+      m_Width: 3.222986E-44
+      m_Height: 1
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 6.375908E-43
+      m_HorizontalAdvance: 12.67188
+    m_GlyphRect:
+      m_X: 1102020608
+      m_Y: 1073217536
+      m_Width: 1101357056
+      m_Height: 1099137024
+    m_Scale: 1.401298E-44
+    m_AtlasIndex: 94
+  - m_Index: 14
+    m_Metrics:
+      m_Width: 3.222986E-44
+      m_Height: 1
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 6.389921E-43
+      m_HorizontalAdvance: 12.34375
+    m_GlyphRect:
+      m_X: 1102004224
+      m_Y: 1074987008
+      m_Width: 1101193216
+      m_Height: 1099137024
+    m_Scale: 4.904545E-44
+    m_AtlasIndex: 52
+  - m_Index: 13
+    m_Metrics:
+      m_Width: 3.222986E-44
+      m_Height: 1
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 6.403934E-43
+      m_HorizontalAdvance: 13.8125
+    m_GlyphRect:
+      m_X: 1101856768
+      m_Y: 1067712512
+      m_Width: 1101193216
+      m_Height: 1099137024
+    m_Scale: 6.165713E-44
+    m_AtlasIndex: 10
+  - m_Index: 15
+    m_Metrics:
+      m_Width: 3.222986E-44
+      m_Height: 1
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 6.417947E-43
+      m_HorizontalAdvance: 12.51563
+    m_GlyphRect:
+      m_X: 1102004224
+      m_Y: 1074987008
+      m_Width: 1101193216
+      m_Height: 1099137024
+    m_Scale: 6.025583E-44
+    m_AtlasIndex: 94
+  - m_Index: 13
+    m_Metrics:
+      m_Width: 3.222986E-44
+      m_Height: 1
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 6.43196E-43
+      m_HorizontalAdvance: 12.71875
+    m_GlyphRect:
+      m_X: 1102004224
+      m_Y: 1072168960
+      m_Width: 1101193216
+      m_Height: 1099137024
+    m_Scale: 9.3887E-44
+    m_AtlasIndex: 52
+  - m_Index: 14
+    m_Metrics:
+      m_Width: 3.222986E-44
+      m_Height: 1
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 6.445973E-43
+      m_HorizontalAdvance: 12.5625
+    m_GlyphRect:
+      m_X: 1101856768
+      m_Y: 1072955392
+      m_Width: 1101193216
+      m_Height: 1099137024
+    m_Scale: 1.093013E-43
+    m_AtlasIndex: 10
+  - m_Index: 14
+    m_Metrics:
+      m_Width: 3.222986E-44
+      m_Height: 1
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 6.459986E-43
+      m_HorizontalAdvance: 12.6875
+    m_GlyphRect:
+      m_X: 1102168064
+      m_Y: 1072431104
+      m_Width: 1101357056
+      m_Height: 1099137024
+    m_Scale: 1.050974E-43
+    m_AtlasIndex: 94
+  - m_Index: 14
+    m_Metrics:
+      m_Width: 3.222986E-44
+      m_Height: 1
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 6.473999E-43
+      m_HorizontalAdvance: 12.71875
+    m_GlyphRect:
+      m_X: 1102020608
+      m_Y: 1072168960
+      m_Width: 1101357056
+      m_Height: 1099137024
+    m_Scale: 1.401298E-43
+    m_AtlasIndex: 52
+  - m_Index: 14
+    m_Metrics:
+      m_Width: 3.222986E-44
+      m_Height: 1
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 1.401298E-44
+      m_HorizontalAdvance: 1.401298E-45
+    m_GlyphRect:
+      m_X: 48
+      m_Y: 453
+      m_Width: 1065353216
+      m_Height: 1
+    m_Scale: 6.866362E-44
+    m_AtlasIndex: 454
+  m_CharacterTable: []

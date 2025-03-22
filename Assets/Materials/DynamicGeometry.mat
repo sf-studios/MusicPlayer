@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: "DynamicGeometry"
+  m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Matcap:
+        m_Texture: {fileID: 2800000, guid: b6659875857b44c6a61effdf51bffc1e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OutlineMap:
+        m_Texture: {fileID: 2800000, guid: 3d7be6f7dc744d6899927a5d4072e6a1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Ramp:
+        m_Texture: {fileID: 2800000, guid: 801f72cfa690411498342b9477aa65ff, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _VertexNoise:
+        m_Texture: {fileID: 2800000, guid: 90b1ae522a4d45f6a1cc8ce9252e551d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _0Intensity: 0.5
+    - _0Min: 0.222
+    - _0Smoothness: 0.5
+    - _1Intensity: 1
+    - _1Min: 0.35
+    - _1Smoothness: 0.093
+    - _2Intensity: 0.5
+    - _2Min: 0.557
+    - _2Smoothness: 0.5
+    - _3Intensity: 0.5
+    - _3Min: 0
+    - _3Smoothness: 0.25
+    - _AlphaCutoff: 0.5
+    - _BlinkingTilling: 5
+    - _ChangeSpeed: 0.08
+    - _ColorChangeTime: 0.35
+    - _ColorScale: 0.43
+    - _Control: 1
+    - _Float1: 4.09
+    - _Float11: 0
+    - _Float2: 0.5
+    - _Float5: 1
+    - _Float8: 0.8
+    - _HUB: -0.795
+    - _HighDensity: 0.45
+    - _HighIntensity: 0.05
+    - _Hue: 0
+    - _Intensity: 0.25
+    - _LowDensity: 0.2
+    - _LowIntensity: 0.1
+    - _MiddleDensity: 0.3
+    - _MiddleIntensity: 0.08
+    - _Min: 0.3
+    - _Power: 0.21
+    - _Power1: 0.05
+    - _RampSpeed: 0.08
+    - _ScaleIntensity: 0.5
+    - _ScrollScale: 1
+    - _ScrollScale1: 20
+    - _ScrollSpeed: 0.02
+    - _ScrollSpeed1: 0.05
+    - _Smoothness: 0.5
+    - _Speed: 0.08
+    - _Step: 0.5
+    - _UpdateSenstivity: 0
+    - _VertexIntensity: 2
+    - _VertexNoiseSpeed: 0.05
+    - _VertexNoiseTilling: 1
+    - _smoothness: 0
+    m_Colors:
+    - _BaseColor: {r: 0, g: 0.6742706, b: 1, a: 0}
+    - _BaseColor2: {r: 0.2585478, g: 0.311215, b: 0.9144934, a: 0}
+    - _BlinkingSpeed: {r: 0, g: 0.2, b: 0, a: 0}
+    - _Color1A: {r: 0.4308033, g: 0.3537736, b: 1, a: 1}
+    - _Color1B: {r: 0.2877358, g: 0.9454901, b: 1, a: 1}
+    - _Color2A: {r: 0.9411765, g: 0.6457055, b: 0.227451, a: 0}
+    - _Color2B: {r: 0.9490196, g: 0.2695216, b: 0.3062514, a: 0}
+    - _ColorA: {r: 0.8058928, g: 0.95, b: 0.4705188, a: 0}
+    - _ColorB: {r: 0.95, g: 0.7509665, b: 0.3704999, a: 0}
+    - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Speed: {r: 0, g: 0, b: 0, a: 0}
+    - _VertexNoiseSpeed: {r: 0.1, g: 0.1, b: 0.1, a: 0}
+    - _VertexNoiseTilling: {r: 2, g: 2, b: 2, a: 0}

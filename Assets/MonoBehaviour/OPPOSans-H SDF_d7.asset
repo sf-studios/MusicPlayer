@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+  m_Name: "OPPOSans-H SDF"
+  m_EditorClassIdentifier: 
+  hashCode: -1231494181
+  material: {fileID: 2100000, guid: 880a712a02774454801cad37648cd2f7, type: 2}
+  materialHashCode: 128708123
+  m_Version: "1.1.0"
+  m_SourceFontFileGUID: "7cc746eb5ac123146b3f110889c2e00d"
+  m_SourceFontFile_EditorRef: {fileID: 12800000, guid: 3193a8b50b4040b798302b85bcd9149d, type: 3}
+  m_SourceFontFile: {fileID: 0}
+  m_AtlasPopulationMode: 1330663503
+  m_FaceInfo:
+    m_FaceIndex: 1936613715
+    m_FamilyName: "Heavy"
+    m_StyleName: 
+    m_PointSize: 10
+    m_Scale: 1.401298E-44
+    m_LineHeight: 1.064987E-43
+    m_AscentLine: 2.242078E-44
+    m_CapLine: 1
+    m_MeanLine: 0
+    m_Baseline: 9.24857E-43
+    m_DescentLine: 26.45313
+    m_SuperscriptOffset: 10.625
+    m_SuperscriptSize: 0
+    m_SubscriptOffset: -16.92188
+    m_SubscriptSize: 26.45313
+    m_UnderlineOffset: 1.471363E-43
+    m_UnderlineThickness: 1.401298E-44
+    m_StrikethroughOffset: 3.783506E-44
+    m_StrikethroughThickness: 1.681558E-44
+    m_TabWidth: 1
+  m_GlyphTable: []
+  m_CharacterTable: []

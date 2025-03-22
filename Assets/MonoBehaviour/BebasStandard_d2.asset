@@ -1,0 +1,190 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+  m_Name: "BebasStandard"
+  m_EditorClassIdentifier: 
+  hashCode: -284080468
+  material: {fileID: 2100000, guid: 77feeb922dcf48c486b2a0cedc9458ad, type: 2}
+  materialHashCode: 90916876
+  m_Version: "1.1.0"
+  m_SourceFontFileGUID: "5b8d2aa3db1a1b249a88e34d1bd65e86"
+  m_SourceFontFile_EditorRef: {fileID: 12800000, guid: b1d6924ddb664decbc356af6d2bf5632, type: 3}
+  m_SourceFontFile: {fileID: 0}
+  m_AtlasPopulationMode: 1633838402
+  m_FaceInfo:
+    m_FaceIndex: 115
+    m_FamilyName: "Regular"
+    m_StyleName: 
+    m_PointSize: 10
+    m_Scale: 2.508324E-43
+    m_LineHeight: 4.484155E-44
+    m_AscentLine: 9.3887E-44
+    m_CapLine: 1
+    m_MeanLine: 0
+    m_Baseline: 4.764415E-44
+    m_DescentLine: 34.04688
+    m_SuperscriptOffset: 64.40625
+    m_SuperscriptSize: 2.203125
+    m_SubscriptOffset: 64.40625
+    m_SubscriptSize: 38.26563
+    m_UnderlineOffset: 1.401298E-44
+    m_UnderlineThickness: 1.401298E-44
+    m_StrikethroughOffset: 4.904545E-44
+    m_StrikethroughThickness: 9.10844E-44
+    m_TabWidth: 1
+  m_GlyphTable: []
+  m_CharacterTable:
+  - m_ElementType: 1106632704
+    m_Unicode: 1115858944
+    m_GlyphIndex: 1082228736
+    m_Scale: 64.40625
+  - m_ElementType: 1108918272
+    m_Unicode: 10
+    m_GlyphIndex: 94
+    m_Scale: 4.344025E-44
+  - m_ElementType: 66
+    m_Unicode: 1065353216
+    m_GlyphIndex: 0
+    m_Scale: 5.324934E-44
+  - m_ElementType: 1107394560
+    m_Unicode: 1115977728
+    m_GlyphIndex: 1080033280
+    m_Scale: 65.3125
+  - m_ElementType: 1109229568
+    m_Unicode: 61
+    m_GlyphIndex: 94
+    m_Scale: 4.624285E-44
+  - m_ElementType: 67
+    m_Unicode: 1065353216
+    m_GlyphIndex: 0
+    m_Scale: 8.547921E-44
+  - m_ElementType: 1108553728
+    m_Unicode: 1088585728
+    m_GlyphIndex: 0
+    m_Scale: -3.6875
+  - m_ElementType: 1108553728
+    m_Unicode: 64
+    m_GlyphIndex: 10
+    m_Scale: 5.184804E-44
+  - m_ElementType: 8
+    m_Unicode: 1065353216
+    m_GlyphIndex: 0
+    m_Scale: 7.006492E-45
+  - m_ElementType: 1
+    m_Unicode: 48
+    m_GlyphIndex: 30
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 52
+    m_GlyphIndex: 34
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 53
+    m_GlyphIndex: 35
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 56
+    m_GlyphIndex: 38
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 95
+    m_GlyphIndex: 61
+    m_Scale: 1
+  - m_ElementType: 2
+    m_Unicode: 0
+    m_GlyphIndex: 3113781554
+    m_Scale: -8.731298E+28
+  - m_ElementType: 0
+    m_Unicode: 0
+    m_GlyphIndex: 0
+    m_Scale: 0
+  - m_ElementType: 1
+    m_Unicode: 1
+    m_GlyphIndex: 5
+    m_Scale: 0
+  - m_ElementType: 0
+    m_Unicode: 54
+    m_GlyphIndex: 84
+    m_Scale: 0
+  - m_ElementType: 84
+    m_Unicode: 50
+    m_GlyphIndex: 85
+    m_Scale: 0
+  - m_ElementType: 169
+    m_Unicode: 51
+    m_GlyphIndex: 86
+    m_Scale: 7.146622E-44
+  - m_ElementType: 84
+    m_Unicode: 52
+    m_GlyphIndex: 86
+    m_Scale: 7.567012E-44
+  - m_ElementType: 0
+    m_Unicode: 56
+    m_GlyphIndex: 27
+    m_Scale: 7.006492E-45
+  - m_ElementType: 50
+    m_Unicode: 84
+    m_GlyphIndex: 1
+    m_Scale: 1.191104E-43
+  - m_ElementType: 51
+    m_Unicode: 170
+    m_GlyphIndex: 204
+    m_Scale: 1.191104E-43
+  - m_ElementType: 54
+    m_Unicode: 27
+    m_GlyphIndex: 201
+    m_Scale: 7.987401E-44
+  - m_ElementType: 103
+    m_Unicode: 27
+    m_GlyphIndex: 152
+    m_Scale: 3.19496E-43
+  - m_ElementType: 110
+    m_Unicode: 0
+    m_GlyphIndex: 145
+    m_Scale: 3.573311E-43
+  - m_ElementType: 0
+    m_Unicode: 0
+    m_GlyphIndex: 0
+    m_Scale: 0
+  - m_ElementType: 0
+    m_Unicode: 0
+    m_GlyphIndex: 0
+    m_Scale: 0
+  - m_ElementType: 0
+    m_Unicode: 0
+    m_GlyphIndex: 0
+    m_Scale: 0
+  - m_ElementType: 0
+    m_Unicode: 0
+    m_GlyphIndex: 0
+    m_Scale: 0
+  - m_ElementType: 0
+    m_Unicode: 0
+    m_GlyphIndex: 0
+    m_Scale: 0
+  - m_ElementType: 0
+    m_Unicode: 0
+    m_GlyphIndex: 0
+    m_Scale: 0
+  - m_ElementType: 256
+    m_Unicode: 256
+    m_GlyphIndex: 9
+    m_Scale: 5.836408E-42
+  - m_ElementType: 0
+    m_Unicode: 0
+    m_GlyphIndex: 0
+    m_Scale: 0
+  m_AtlasTextures: []
+  m_AtlasTextureIndex: 0
+  m_IsMultiAtlasTexturesEnabled: 1
+  m_ClearDynamicDataOnBuild: 1
+  m_UsedGlyphRects: []

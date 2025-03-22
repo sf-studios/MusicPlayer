@@ -1,0 +1,258 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1525912004, guid: 10000000000000000000000000000000, type: 3}
+  m_Name: "MusicZoneAnimationProperties"
+  m_EditorClassIdentifier: 
+  focusFrameAlphaCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 373.3816
+      outSlope: 373.3816
+      weightedMode: 3
+      inWeight: 0
+      outWeight: 0.002659574
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0.003948901
+      outSlope: 0.003948901
+      weightedMode: 3
+      inWeight: 1
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  focusContentScaleCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0.8317194
+      outSlope: 0.4575498
+      weightedMode: 3
+      inWeight: 0
+      outWeight: 0.4022013
+    - serializedVersion: 3
+      time: 0.4188708
+      value: 3
+      inSlope: 0.05160885
+      outSlope: 0.05160885
+      weightedMode: 3
+      inWeight: 0.4207339
+      outWeight: 0.3333333
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 3
+      inWeight: 0.3333334
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  focusShadowAlphaCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 3
+      inWeight: 0
+      outWeight: 0.1515957
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0.003764482
+      outSlope: 0.003764482
+      weightedMode: 3
+      inWeight: 0.9978223
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  focusScaleCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0.001428214
+      outSlope: 0.001428214
+      weightedMode: 3
+      inWeight: 0
+      outWeight: 0.1170213
+    - serializedVersion: 3
+      time: 1
+      value: 1.08
+      inSlope: 4.323979E-05
+      outSlope: 4.323979E-05
+      weightedMode: 3
+      inWeight: 0.9924967
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  focusMoveCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: -0.3142062
+      outSlope: -0.3142062
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.05114566
+    - serializedVersion: 3
+      time: 0.39
+      value: -0.1
+      inSlope: -4.851943E-08
+      outSlope: -4.851943E-08
+      weightedMode: 3
+      inWeight: 0.3333334
+      outWeight: 0.2362442
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 3
+      inWeight: 0.3333335
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  focusRotateCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 0.35
+      value: -0.1
+      inSlope: -0.005877641
+      outSlope: -0.005877641
+      weightedMode: 0
+      inWeight: 0.3333333
+      outWeight: 0.4567814
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  leaveFrameAlphaCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: -444.2831
+      outSlope: -444.2831
+      weightedMode: 3
+      inWeight: 0
+      outWeight: 0.002247302
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: -0.004991352
+      outSlope: -0.004991352
+      weightedMode: 3
+      inWeight: 0.9857533
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  leaveShadowAlphaCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 558.6414
+      outSlope: 558.6414
+      weightedMode: 3
+      inWeight: 0
+      outWeight: 0.001779359
+    - serializedVersion: 3
+      time: 1.00177
+      value: 1
+      inSlope: 0.006018977
+      outSlope: 0.006018977
+      weightedMode: 3
+      inWeight: 0.991119
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  leaveContentScaleCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1.05
+      inSlope: -7.339099
+      outSlope: -7.339099
+      weightedMode: 3
+      inWeight: 0
+      outWeight: 0.006652727
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 2.4892E-05
+      outSlope: 2.4892E-05
+      weightedMode: 3
+      inWeight: 0.9697847
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  leaveScaleCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1.08
+      inSlope: -23.51089
+      outSlope: -23.51089
+      weightedMode: 3
+      inWeight: 0
+      outWeight: 0.003381283
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: -0.0002708753
+      outSlope: -0.0002708753
+      weightedMode: 3
+      inWeight: 1
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4

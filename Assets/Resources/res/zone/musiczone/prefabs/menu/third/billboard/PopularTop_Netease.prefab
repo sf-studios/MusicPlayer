@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!224 &-2326461206833625753
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6760848913164091189}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 100, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!1 &6760848913164091189
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: -2326461206833625753}
+  - component: {fileID: -3380441503097701777}
+  m_Layer: 5
+  m_Name: "PopularTop_Netease"
+  m_TagString:
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &-3380441503097701777
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6760848913164091189}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1283757053, guid: 10000000000000000000000000000000, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  source: 4
+  dicSprites:
+    reqReferences: {fileID: 0}
+    isExpanded: 1
+    _keyValues:
+    - "ak_mz_netcloud_01_dy"
+    - "ak_mz_netcloud_02_us"
+    - "ak_mz_netcloud_03_uk"
+    - "ak_mz_netcloud_04_jp"
+    - "ak_mz_netcloud_05_fr"
+    - "ak_mz_netcloud_06_rus"
+    - "ak_mz_netcloud_07_tg"
+    - "ak_mz_netcloud_08_ql"
+    - "ak_mz_netcloud_09_dh"
+    - "ak_mz_netcloud_10_yx"
+    - "ak_mz_netcloud_11_v"
+    - "ak_mz_netcloud_12_ktv"
+    - "ak_mz_netcloud_13_xxc"
+    - "ak_mz_netcloud_14_wq"
+    - "ak_mz_netcloud_15_eg"
+    _keys:
+    - "ak_mz_netcloud_01_dy"
+    - "ak_mz_netcloud_02_us"
+    - "ak_mz_netcloud_03_uk"
+    - "ak_mz_netcloud_04_jp"
+    - "ak_mz_netcloud_05_fr"
+    - "ak_mz_netcloud_06_rus"
+    - "ak_mz_netcloud_07_tg"
+    - "ak_mz_netcloud_08_ql"
+    - "ak_mz_netcloud_09_dh"
+    - "ak_mz_netcloud_10_yx"
+    - "ak_mz_netcloud_11_v"
+    - "ak_mz_netcloud_12_ktv"
+    - "ak_mz_netcloud_13_xxc"
+    - "ak_mz_netcloud_14_wq"
+    - "ak_mz_netcloud_15_eg"
+    _values:
+    - {fileID: 2800000, guid: 29f09563adac430dbcca3bf3e9a8177e, type: 3}
+    - {fileID: 2800000, guid: a74f68eba3f641f39119dc70d0132cac, type: 3}
+    - {fileID: 2800000, guid: e354486b29c8479fbaac2f9a6eb5dbfc, type: 3}
+    - {fileID: 2800000, guid: cff662fb3cdb4aebb14efaaa2cf297b4, type: 3}
+    - {fileID: 2800000, guid: 568bc6842cea49318bebcda9e338daaa, type: 3}
+    - {fileID: 2800000, guid: 6b1b0a7cdd384bd0a415ce9a5beb8d2f, type: 3}
+    - {fileID: 2800000, guid: aa355342414c4df58e0ff84efa425d85, type: 3}
+    - {fileID: 2800000, guid: 3ff84d881b6c426a9c9023a5341fb538, type: 3}
+    - {fileID: 2800000, guid: b32c5edc1043470485664a378dc10669, type: 3}
+    - {fileID: 2800000, guid: a4c1d3f5936345868e81435895904945, type: 3}
+    - {fileID: 2800000, guid: 49d058a4614e47588e589e13a7aef18e, type: 3}
+    - {fileID: 2800000, guid: dc814a60e3c448b7a10aa8769da2857a, type: 3}
+    - {fileID: 2800000, guid: f83bb159a46a4312948bbc2a86e7e465, type: 3}
+    - {fileID: 2800000, guid: 8886eb319ca54c52ad2bc7259c6aab9a, type: 3}
+    - {fileID: 2800000, guid: c1b64603a8544863a3a6469627ea2400, type: 3}

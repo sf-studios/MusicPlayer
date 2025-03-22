@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de640fe3d0db1804a85f9fc8f5cadab6, type: 3}
+  m_Name: "ForwardRenderer"
+  m_EditorClassIdentifier: 
+  m_RendererFeatures:
+  - {fileID: 11400000, guid: f04381eac3064fe598cd36696967d2f6, type: 2}
+  m_RendererFeatureMap:
+  - 873647546044278952
+  postProcessData: {fileID: 11400000, guid: 25023456e60f4f229e697f43ed5ae8c0, type: 2}
+  shaders:
+    blitPS: {fileID: 4800000, guid: 75cbb54860de41609dccbd9f57ddc358, type: 3}
+    copyDepthPS: {fileID: 4800000, guid: 9b51b818e64c42c78c365bc02e3dac72, type: 3}
+    screenSpaceShadowPS: {fileID: 4800000, guid: 56fb362847d04bce89955fcc9df41533, type: 3}
+    samplingPS: {fileID: 4800000, guid: d79f28e1ffcb42dc96dec647d7ce2fce, type: 3}
+    fallbackErrorPS: {fileID: 4800000, guid: 7d1936b109824d7daa6140e890b8a7d5, type: 3}
+  m_OpaqueLayerMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_TransparentLayerMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_DefaultStencilState:
+    overrideStencilState: 0
+    stencilReference: 0
+    stencilCompareFunction: 8
+    passOperation: 0
+    failOperation: 0
+    zFailOperation: 0
+  m_ShadowTransparentReceive: 1

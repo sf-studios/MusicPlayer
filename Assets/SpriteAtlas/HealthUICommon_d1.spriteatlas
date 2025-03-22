@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &68707889500000
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "HealthUICommon"
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: 78da0d1f6f0c4825a79a925d2eb359b2, type: 3}
+    - {fileID: 21300000, guid: 932ca68154384dd895c8194437fa63e8, type: 3}
+    - {fileID: 21300000, guid: 7eb54073e93141b0a7077ddec6a64d50, type: 3}
+    - {fileID: 21300000, guid: f6cefa18074e49bf863da498f1fb7842, type: 3}
+    - {fileID: 21300000, guid: d489e53fa74d4eefbdd32914ff7012cd, type: 3}
+    - {fileID: 21300000, guid: 1d9c44e41aae49a5ba51fa8cbaf55497, type: 3}
+    - {fileID: 21300000, guid: 6f85f4e22c4f4a73bb908497bd6dd593, type: 3}
+    - {fileID: 21300000, guid: a4e2cd3d5d3a4d3baf37d228ba978e8a, type: 3}
+    - {fileID: 21300000, guid: 0b11738c0e644a53ae42d7a020734736, type: 3}
+    - {fileID: 21300000, guid: c10c27e3758f42fba5c569f2faded0c9, type: 3}
+    - {fileID: 21300000, guid: 97eb34816cbe4392a023620a52ae99dc, type: 3}
+    - {fileID: 21300000, guid: 51ef114b614b47d7b822604e7b346b64, type: 3}
+    - {fileID: 21300000, guid: 409bc9a01e6f41daaf29c185d319e194, type: 3}
+    - {fileID: 21300000, guid: 93f49d2af83649f091f60d2462cdaf5e, type: 3}
+    - {fileID: 21300000, guid: 4d46b90ca02c4e60a6cc40068f9c1f25, type: 3}
+    - {fileID: 21300000, guid: 815812c0f1ea4ac5836d9aca06a4bcd5, type: 3}
+    - {fileID: 21300000, guid: 6de7e4c335a34f44939d54b05c238feb, type: 3}
+    - {fileID: 21300000, guid: a2f47ba962eb42d585692d618640e013, type: 3}
+    - {fileID: 21300000, guid: 605fc24d49eb4603be5a4e72ed9157b4, type: 3}
+    - {fileID: 21300000, guid: f0c5d750c537499ab70920d57e16c100, type: 3}
+    - {fileID: 21300000, guid: 455775de4fba438caeb9dc9f2afcaa2d, type: 3}
+    - {fileID: 21300000, guid: a25ec019ffd7462ea78c301678c1cf1a, type: 3}
+    - {fileID: 21300000, guid: 05839611edaf495d86f5400370e29276, type: 3}
+    - {fileID: 21300000, guid: b7002cee9a244072b1d3282ab77f345e, type: 3}
+    - {fileID: 21300000, guid: c9485386438242f688917d232f7c957e, type: 3}
+    - {fileID: 21300000, guid: 98604c69eb7c4cde93f0f2f98ce5f97a, type: 3}
+    - {fileID: 21300000, guid: 6fafae5178c04526ae29d796f6623b9f, type: 3}
+    - {fileID: 21300000, guid: aa9a0d672f794f1abf24aafc798dcac2, type: 3}
+    - {fileID: 21300000, guid: 66ac53d9272a4299af7c56de8715af97, type: 3}
+    - {fileID: 21300000, guid: f681019a4e4f42a99d8f184b0cb9bc1b, type: 3}
+    - {fileID: 21300000, guid: f07392db33a74129b0cd96f5ae3ab7ff, type: 3}
+    - {fileID: 21300000, guid: a86eba69dba7425496177998c6b1a2ff, type: 3}
+    - {fileID: 21300000, guid: 87b7148cd2ac404db3de390611d83119, type: 3}
+    - {fileID: 21300000, guid: 3700651b60aa4d47a1ac6230512ca943, type: 3}
+    - {fileID: 21300000, guid: ce59f541eb1646429a1507d8fae9e53a, type: 3}
+    - {fileID: 21300000, guid: e2bcda57f4014d95afae58140625aa85, type: 3}
+    - {fileID: 21300000, guid: 99d88b9efced4b75bac9f53bbfce134f, type: 3}
+    - {fileID: 21300000, guid: 5479ecc73cc2455c94c636db4d10a70a, type: 3}
+    - {fileID: 21300000, guid: 10eeb116edda49e297cb3a2ac320bf20, type: 3}
+    - {fileID: 21300000, guid: b9e30c7762c4446b9ad8d8e9c9fb4da6, type: 3}
+    - {fileID: 21300000, guid: c2dca0a8745f418990d0c46f83b5d065, type: 3}
+    - {fileID: 21300000, guid: c609210210fc4382a3e25d70c489dd43, type: 3}
+    - {fileID: 21300000, guid: cc9ea10819d54066aa80c028d370b381, type: 3}
+    - {fileID: 21300000, guid: de02ea66b5b24662b7e1e0cf72a5265d, type: 3}
+    - {fileID: 21300000, guid: 4eef3e8a1d224299b43d0ca8a55d978a, type: 3}
+    - {fileID: 21300000, guid: 0cac156c6e78458bbe8088d972d451c0, type: 3}
+    - {fileID: 21300000, guid: 5d787462415944f182382a0b5c513ff8, type: 3}
+    - {fileID: 21300000, guid: 5a76d46e76b0439e832dbb2971ab254c, type: 3}
+    - {fileID: 21300000, guid: e3fb30bc9bb94963b4d7b5c49fc965b1, type: 3}
+    - {fileID: 21300000, guid: e8616eaada33445d947b687f7beb2139, type: 3}
+    - {fileID: 21300000, guid: 0a4b1b8469b048ddb430085c9cf517cc, type: 3}
+    - {fileID: 21300000, guid: 7b90815b96184082b13451a2b9a92159, type: 3}
+    - {fileID: 21300000, guid: 15a5651300f940ed84aa2b41b6480e7b, type: 3}
+    - {fileID: 21300000, guid: 2d79e7a536754c2ab9945c866aca7d73, type: 3}
+    - {fileID: 21300000, guid: 33e2bf0d99cd42d3bbcf6ae3f2945c19, type: 3}
+    - {fileID: 21300000, guid: e2c23bd1877e451998fc7fa888cf585d, type: 3}
+    - {fileID: 21300000, guid: b939b383fd2645b9ab2e791a51739fad, type: 3}
+    - {fileID: 21300000, guid: 6c3dd3ba3a584bb0a991edbc028b159d, type: 3}
+    - {fileID: 21300000, guid: a4aa00ba760742efad65f907cffe1ad6, type: 3}
+    - {fileID: 21300000, guid: 79560126bbb54ee6b64932730586f884, type: 3}
+    - {fileID: 21300000, guid: 5258007b67644f1d8a72f01a439bf19d, type: 3}
+    - {fileID: 21300000, guid: 55c0e90e112740f98800467ca316d6b1, type: 3}
+    - {fileID: 21300000, guid: ab7f7eae1df5414b8eb5324b90b08119, type: 3}
+    totalSpriteSurfaceArea: 0
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_Tag: "HealthUICommon"
+  m_IsVariant: 0

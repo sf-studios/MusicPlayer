@@ -1,0 +1,2169 @@
+[
+  {
+    "key": "ak_msgbox_toast",
+    "path": "Res/Common/MsgBox/BoxToast.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_common_msgbox"
+  },
+  {
+    "key": "ak_msgbox_show",
+    "path": "Res/Common/MsgBox/BoxShow.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_common_msgbox"
+  },
+  {
+    "key": "ak_msgbox_single",
+    "path": "Res/Common/MsgBox/BoxSingle.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_common_msgbox"
+  },
+  {
+    "key": "ak_msgbox_mul",
+    "path": "Res/Common/MsgBox/BoxMul.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_common_msgbox"
+  },
+  {
+    "key": "ak_msgbox_mul2",
+    "path": "Res/Common/MsgBox/BoxMul2.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_common_msgbox"
+  },
+  {
+    "key": "ak_msgbox_icgou",
+    "path": "Res/Common/MsgBox/Texture/ic_gou.png",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_common_msgbox"
+  },
+  {
+    "key": "ak_msgbox_icnowifi",
+    "path": "Res/Common/MsgBox/Texture/ic_nowifi.png",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_common_msgbox"
+  },
+  {
+    "key": "ak_msgbox_operat",
+    "path": "Res/Common/MsgBox/OperationTip.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_common_msgbox"
+  },
+  {
+    "key": "ak_pop_bluetooth_disconnect",
+    "path": "Res/Common/Texture/Tip/icon_pop_bluetooth.png",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_common_texture"
+  },
+  {
+    "key": "ak_guide_button_guide",
+    "path": "Res/Zone/Guide/ButtonGuide/Prefabs/ButtonGuide.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_guide"
+  },
+  {
+    "key": "ak_guide_Trigger",
+    "path": "Res/Zone/Guide/TriggerGuide/Guide_Trigger.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_guide"
+  },
+  {
+    "key": "ak_guide_LobbyZone",
+    "path": "Res/Zone/Guide/LobbyGuide/Guide_LobbyZone.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_guide"
+  },
+  {
+    "key": "ak_guide_MusicZone",
+    "path": "Res/Zone/Guide/MusicGuide/Guide_MusicZone.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_guide"
+  },
+  {
+    "key": "ak_guide_HealthZone",
+    "path": "Res/Zone/Guide/HealthGuide/Guide_HealthZone.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_guide"
+  },
+  {
+    "key": "ak_time_clockpg_richu",
+    "path": "Res/Zone/WorkZone/WorkComponent/Theme/Default/richu.png",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_time_clockpg_riluo",
+    "path": "Res/Zone/WorkZone/WorkComponent/Theme/Default/riluo.png",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_time_clockpg_shangwu",
+    "path": "Res/Zone/WorkZone/WorkComponent/Theme/Default/shangwu.png",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_time_clockpg_shuimian",
+    "path": "Res/Zone/WorkZone/WorkComponent/Theme/Default/shuimian.png",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_time_clockpg_xiawu",
+    "path": "Res/Zone/WorkZone/WorkComponent/Theme/Default/xiawu.png",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_childpage",
+    "path": "Res/Zone/WorkZone/WorkComponent/DiyChildPageView.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_loadingcircle",
+    "path": "Res/Zone/WorkZone/WorkComponent/LoadingCircle.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_root",
+    "path": "Res/Zone/WorkZone/WorkComponent/DiyRoot.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_tex_artframe",
+    "path": "Res/Zone/WorkZone/WorkComponent/Texture/Frame/ArtFrame.png",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_tex_purewhiteframe",
+    "path": "Res/Zone/WorkZone/WorkComponent/Texture/Frame/PureWhiteFrame.png",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_tex_seaframe",
+    "path": "Res/Zone/WorkZone/WorkComponent/Texture/Frame/SeaFrame.png",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_tex_seaframe2",
+    "path": "Res/Zone/WorkZone/WorkComponent/Texture/Frame/SeaFrame2.png",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_tex_timefilmframe1",
+    "path": "Res/Zone/WorkZone/WorkComponent/Texture/Frame/TimeFilmFrame1.png",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_tex_timefilmframe2",
+    "path": "Res/Zone/WorkZone/WorkComponent/Texture/Frame/TimeFilmFrame2.png",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_tex_woodframe",
+    "path": "Res/Zone/WorkZone/WorkComponent/Texture/Frame/WoodFrame.png",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_tex_mask_cave",
+    "path": "Res/Zone/WorkZone/WorkComponent/Texture/Mask/Mask_Cave.png",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_tex_mask_circle",
+    "path": "Res/Zone/WorkZone/WorkComponent/Texture/Mask/Mask_Circle.png",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_tex_mask_cyberpunk",
+    "path": "Res/Zone/WorkZone/WorkComponent/Texture/Mask/Mask_Cyberpunk.png",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_tex_mask_emptinesscircle",
+    "path": "Res/Zone/WorkZone/WorkComponent/Texture/Mask/Mask_EmptinessCircle.png",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_tex_mask_emptinessrectangle",
+    "path": "Res/Zone/WorkZone/WorkComponent/Texture/Mask/Mask_EmptinessRectangle.png",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_tex_mask_heart",
+    "path": "Res/Zone/WorkZone/WorkComponent/Texture/Mask/Mask_Heart.png",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_tex_mask_roundedrectangle",
+    "path": "Res/Zone/WorkZone/WorkComponent/Texture/Mask/Mask_RoundedRectangle.png",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_tex_mask_skycrack",
+    "path": "Res/Zone/WorkZone/WorkComponent/Texture/Mask/Mask_SkyCrack.png",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_tex_mask_star",
+    "path": "Res/Zone/WorkZone/WorkComponent/Texture/Mask/Mask_Star.png",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_2dfireworks",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Effect/2DFirework.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_artclock",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Clock/ArtClock.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_bubble",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Effect/Bubble.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_bubbleex",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Effect/BubbleExplosion.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_bubblespray",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Effect/BubbleSpray.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_childclock",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Clock/ChildClock.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_childlikeclock",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Clock/ChildLikeClock.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_childtag",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/VideoPhotoFrame/ChildTag.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_circularpicture",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/VideoPhotoFrame/CircularPicture.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_delicateclock",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Clock/DelicateClock.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_digitalclock",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Clock/DigitalClock.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_diybutterfly",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Effect/DiyButterfly.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_diytext",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/DiyText/DiyTextCompomemt.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_timegardenclock",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Clock/DIYTimeGardenClock.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_filmclock",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Clock/FilmClock.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_filmphoto",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/VideoPhotoFrame/FilmPhoto.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_filmphotosign",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/VideoPhotoFrame/FilmPhotoSign.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_filmphotostick",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/VideoPhotoFrame/FilmPhotoStick.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_fireworksbluepion",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Effect/Fireworksbluepion.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_floatinglight_spot",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Effect/FloatingLight_Spot.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_floatinglight_stripe",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Effect/FloatingLight_Stripe.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_fullscreenmedia",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/VideoPhotoFrame/FullScreenMedia.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_paster",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/VideoPhotoFrame/Paster.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_photoframe",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/VideoPhotoFrame/PhotoFrame.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_photoframe_art",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/VideoPhotoFrame/PhotoFrame_Art.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_photoframe_wood",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/VideoPhotoFrame/PhotoFrame_Wood.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_soapbubbleStream",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Effect/SoapBubbleStream.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_soapbubles",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Effect/SoapBubles.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_StandardClock",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Clock/StandardClock.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_star",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/VideoPhotoFrame/Star.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_star_new",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/VideoPhotoFrame/Star_New.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_toonconfettidirpastel",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Effect/ToonConfettiDirectionalPastel.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_universalclock",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Clock/UniversalClock.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_videoframe",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/VideoPhotoFrame/VideoFrame.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_videophotoframe",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/VideoPhotoFrame/VideoPhotoFrame.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_weatheradjective",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Weather/WeatherAdjective.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_weatheradjectivedetails",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Weather/WeatherAdjectiveDetails.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_weatherchnstyle",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Weather/WeatherChineseStyle.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_weatherchnstyledetails",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Weather/WeatherChineseStyleDetails.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_weatherdefault",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Weather/WeatherDefault.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_weatherdefaultdetails",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Weather/WeatherDefaultDetails.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_weatherdigital",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Weather/WeatherDigital.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_weatherdigitaldetails",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Weather/WeatherDigitalDetails.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_weatherneon",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Weather/WeatherNeon.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_weatherneondetails",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Weather/WeatherNeonDetails.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_weathersimple",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Weather/WeatherSimple.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_weathersimpledetails",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Weather/WeatherSimpleDetails.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_whitechildclock",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Clock/WhiteChildClock.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_windowshadow",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Effect/WindowShadow.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_woodclock",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Clock/WoodClock.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_woodclock_new",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Clock/NewWoodClock.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_weatherdigitalsimplicity",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Weather/WeatherDigitalSimplicity.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_turnpageclock",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Clock/TurnPageClock.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_neondialdiscclock",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Clock/NeonDialDiscClock.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_neonlightboxclock",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Clock/NeonLightBoxClock.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_neondialclock",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Clock/NeonDialClock.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_starryskyclock",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Clock/StarrySkyClock.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_lightandshadowyellowclock",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Clock/LightAndShadowYellowClock.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_lightandshadowblueclock",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Clock/LightAndShadowBlueClock.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_voiceadventure",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Voice/VoiceAdvemture.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_voicedefault",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Voice/VoiceDefault.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_voicedoodle",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Voice/VoiceDoodle.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_voicefantasyland",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Voice/VoiceFantasyland.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_voicegalaxy",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Voice/VoiceGalaxy.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_voicegarden",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Voice/VoiceGarden.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_voicelandscape",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Voice/VoiceLandscape.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_voicemeteor_shower",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Voice/VoiceMeteorShower.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_voicemicro3d",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Voice/VoiceMicro3d.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_voiceneon",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Voice/VoiceNeon.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_voicestreamer",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Voice/VoiceStreamer.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_musicadventure",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Music/MusicAdvemture.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_musicdefault",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Music/MusicDefault.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_musicdoodle",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Music/MusicDoodle.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_musicfantasyland",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Music/MusicFantasyland.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_musicgalaxy",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Music/MusicGalaxy.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_musicgarden",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Music/MusicGarden.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_musiclandscape",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Music/MusicLandscape.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_musicmeteor_shower",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Music/MusicMeteorShower.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_musicmicro3d",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Music/MusicMicro3d.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_musicneon",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Music/MusicNeon.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_musicstreamer",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Music/MusicStreamer.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_clockadventure",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Clock/ClockAdvemture.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_clockdefault",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Clock/ClockDefault.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_clockdoodle",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Clock/ClockDoodle.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_clockfantasyland",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Clock/ClockFantasyland.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_clockgalaxy",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Clock/ClockGalaxy.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_clockgarden",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Clock/ClockGarden.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_clocklandscape",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Clock/ClockLandscape.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_clockmeteor_shower",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Clock/ClockMeteorShower.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_clockmicro3d",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Clock/ClockMicro3d.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_clockneon",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Clock/ClockNeon.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_clockstreamer",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Clock/ClockStreamer.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_weatheradventure",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Weather/WeatherAdvemtureWidget.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_weatherdefaulttype",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Weather/WeatherDefaultWidget.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_weatherdoodle",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Weather/WeatherDoodleWidget.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_weatherfantasyland",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Weather/WeatherFantasylandWidget.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_weathergalaxy",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Weather/WeatherGalaxyWidget.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_weathergarden",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Weather/WeatherGardenWidget.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_weatherlandscape",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Weather/WeatherLandscapeWidget.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_weathermeteor_shower",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Weather/WeatherMeteorShowerWidget.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_weathermicro3d",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Weather/WeatherMicro3dWidget.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_weatherneontype",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Weather/WeatherNeonWidget.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_diy_com_weatherstreamer",
+    "path": "Res/Zone/WorkZone/WorkComponent/Prefabs/Weather/WeatherStreamerWidget.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_musicvis_cube",
+    "path": "Res/MusicVisualization/CubeLRC/CubeLRC.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_musicvisualization_cubelrc"
+  },
+  {
+    "key": "ak_musicvis_elantraball",
+    "path": "Res/MusicVisualization/ElantraballLRC/ElantraBallLRC.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_musicvisualization_elantraballlrc"
+  },
+  {
+    "key": "ak_musicvis_emerge",
+    "path": "Res/MusicVisualization/EmergeLRC/EmergeLRC.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_musicvisualization_emergelrc"
+  },
+  {
+    "key": "ak_musicvis_glitch",
+    "path": "Res/MusicVisualization/GlitchLRC/GlitchLRC.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_musicvisualization_glitchlrc"
+  },
+  {
+    "key": "ak_musicvis_light",
+    "path": "Res/MusicVisualization/LightLRC/LightLRC.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_musicvisualization_lightlrc"
+  },
+  {
+    "key": "ak_musicvis_mobius",
+    "path": "Res/MusicVisualization/MobiusLRC/MobiusLRC.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_musicvisualization_mobiuslrc"
+  },
+  {
+    "key": "ak_musicvis_neon",
+    "path": "Res/MusicVisualization/NeonLRC/NeonLRC.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_musicvisualization_neonlrc"
+  },
+  {
+    "key": "ak_musicvis_noiseball",
+    "path": "Res/MusicVisualization/NoiseBallLRC/NoiseBallLRC.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_musicvisualization_noiseballlrc"
+  },
+  {
+    "key": "ak_musicvis_noiseline",
+    "path": "Res/MusicVisualization/NoiselineLRC/NoiseLineLRC.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_musicvisualization_noiselinelrc"
+  },
+  {
+    "key": "ak_musicvis_pillars",
+    "path": "Res/MusicVisualization/PillarsLRC/PillarsLRC.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_musicvisualization_pillarslrc"
+  },
+  {
+    "key": "ak_musicvis_shapesfx",
+    "path": "Res/MusicVisualization/ShapesFX/ShapesFXLRC.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_musicvisualization_shapesfx"
+  },
+  {
+    "key": "ak_musicvis_magiccube",
+    "path": "Res/MusicVisualization/MagicCubeLRC/Prefab/MagicCube.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_musicvisualization_magiccubelrc"
+  },
+  {
+    "key": "ak_musicvis_dynamictrend",
+    "path": "Res/MusicVisualization/DynamicTrendLRC/DynamicTrendLRC.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_musicvisualization_dynamictrendlrc"
+  },
+  {
+    "key": "ak_musicvis_vinyl",
+    "path": "Res/MusicVisualization/VinylLRC/Prefab/VinylLRC.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_musicvisualization_vinyllrc"
+  },
+  {
+    "key": "ak_musicvis_dynamictrend_DynamycTrend0_A",
+    "path": "Res/MusicVisualization/DynamicTrendLRC/Prefab/DynamycTrend0_A.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_musicvisualization_dynamictrendlrc"
+  },
+  {
+    "key": "ak_musicvis_dynamictrend_DynamycTrend0_B",
+    "path": "Res/MusicVisualization/DynamicTrendLRC/Prefab/DynamycTrend0_B.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_musicvisualization_dynamictrendlrc"
+  },
+  {
+    "key": "ak_musicvis_dynamictrend_DynamycTrend0_C",
+    "path": "Res/MusicVisualization/DynamicTrendLRC/Prefab/DynamycTrend0_C.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_musicvisualization_dynamictrendlrc"
+  },
+  {
+    "key": "ak_musicvis_dynamictrend_DynamycTrend1_A",
+    "path": "Res/MusicVisualization/DynamicTrendLRC/Prefab/DynamycTrend1_A.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_musicvisualization_dynamictrendlrc"
+  },
+  {
+    "key": "ak_musicvis_dynamictrend_DynamycTrend1_B",
+    "path": "Res/MusicVisualization/DynamicTrendLRC/Prefab/DynamycTrend1_B.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_musicvisualization_dynamictrendlrc"
+  },
+  {
+    "key": "ak_musicvis_dynamictrend_DynamycTrend1_C",
+    "path": "Res/MusicVisualization/DynamicTrendLRC/Prefab/DynamycTrend1_C.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_musicvisualization_dynamictrendlrc"
+  },
+  {
+    "key": "ak_musicvis_dynamictrend_DynamycTrend1_D",
+    "path": "Res/MusicVisualization/DynamicTrendLRC/Prefab/DynamycTrend1_D.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_musicvisualization_dynamictrendlrc"
+  },
+  {
+    "key": "ak_musicvis_dynamictrend_DynamycTrend1_E",
+    "path": "Res/MusicVisualization/DynamicTrendLRC/Prefab/DynamycTrend1_E.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_musicvisualization_dynamictrendlrc"
+  },
+  {
+    "key": "ak_musicvis_dynamictrend_DynamycTrend2_A",
+    "path": "Res/MusicVisualization/DynamicTrendLRC/Prefab/DynamycTrend2_A.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_musicvisualization_dynamictrendlrc"
+  },
+  {
+    "key": "ak_musicvis_dynamictrend_DynamycTrend2_B",
+    "path": "Res/MusicVisualization/DynamicTrendLRC/Prefab/DynamycTrend2_B.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_musicvisualization_dynamictrendlrc"
+  },
+  {
+    "key": "ak_musicvis_dynamictrend_DynamycTrend2_C",
+    "path": "Res/MusicVisualization/DynamicTrendLRC/Prefab/DynamycTrend2_C.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_musicvisualization_dynamictrendlrc"
+  },
+  {
+    "key": "ak_musicvis_dynamictrend_DynamycTrend2_D",
+    "path": "Res/MusicVisualization/DynamicTrendLRC/Prefab/DynamycTrend2_D.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_musicvisualization_dynamictrendlrc"
+  },
+  {
+    "key": "ak_musicvis_dynamictrend_DynamycTrend3_A",
+    "path": "Res/MusicVisualization/DynamicTrendLRC/Prefab/DynamycTrend3_A.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_musicvisualization_dynamictrendlrc"
+  },
+  {
+    "key": "ak_musicvis_flowingillusion",
+    "path": "Res/MusicVisualization/FlowingIllusion/FlowingIllusion.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_musicvisualization_flowingillusion"
+  },
+  {
+    "key": "ak_musicvis_matrix",
+    "path": "Res/MusicVisualization/MatrixLRC/Prefab/MatrixLRC.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_musicvisualization_matrixlrc"
+  },
+  {
+    "key": "ak_sw_musicTip",
+    "path": "Res/Zone/HealthZone/swMusicTips.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_healthzone"
+  },
+  {
+    "key": "ak_zone_configs",
+    "path": "Res/Zone/Nav/Configs/ZoneCfg.asset",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_nav"
+  },
+  {
+    "key": "ak_zone_animation_configs",
+    "path": "Res/Zone/Nav/Configs/NavAnimCfg.asset",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_nav"
+  },
+  {
+    "key": "ak_zone_nav",
+    "path": "Res/Zone/Nav/Prefabs/Nav.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_nav"
+  },
+  {
+    "key": "ak_zone_film",
+    "path": "Res/Zone/FilmZone/FilmZone.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_filmzone"
+  },
+  {
+    "key": "ak_zone_health",
+    "path": "Res/Zone/HealthZone/HealthZone.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_healthzone"
+  },
+  {
+    "key": "ak_zone_lobby",
+    "path": "Res/Zone/LobbyZone/LobbyZone.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_lobbyzone"
+  },
+  {
+    "key": "ak_zone_music",
+    "path": "Res/Zone/MusicZone/MusicZone.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_musiczone"
+  },
+  {
+    "key": "ak_zone_work",
+    "path": "Res/Zone/WorkZone/WorkZone.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_zone_film_placeholder",
+    "path": "Res/Zone/Nav/Textures/image_film.png",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_nav"
+  },
+  {
+    "key": "ak_zone_health_placeholder",
+    "path": "Res/Zone/Nav/Textures/image_health.png",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_nav"
+  },
+  {
+    "key": "ak_zone_lobby_placeholder",
+    "path": "Res/Zone/Nav/Textures/image_lobby.png",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_nav"
+  },
+  {
+    "key": "ak_zone_music_placeholder",
+    "path": "Res/Zone/Nav/Textures/image_music.png",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_nav"
+  },
+  {
+    "key": "ak_zone_work_placeholder",
+    "path": "Res/Zone/Nav/Textures/image_work.png",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_nav"
+  },
+  {
+    "key": "ak_zone_dark_film_placeholder",
+    "path": "Res/Zone/Nav/Textures/image_dark_film.png",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_nav"
+  },
+  {
+    "key": "ak_zone_film_icon",
+    "path": "Res/Zone/Nav/Textures/icon_film.png",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_nav"
+  },
+  {
+    "key": "ak_zone_health_icon",
+    "path": "Res/Zone/Nav/Textures/icon_health.png",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_nav"
+  },
+  {
+    "key": "ak_zone_lobby_icon",
+    "path": "Res/Zone/Nav/Textures/icon_lobby.png",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_nav"
+  },
+  {
+    "key": "ak_zone_music_icon",
+    "path": "Res/Zone/Nav/Textures/icon_music.png",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_nav"
+  },
+  {
+    "key": "ak_zone_work_icon",
+    "path": "Res/Zone/Nav/Textures/icon_work.png",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_nav"
+  },
+  {
+    "key": "blur_mask",
+    "path": "Res/Common/BlurEffect/mask_gradual.png",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_common_blureffect"
+  },
+  {
+    "key": "ak_LobbyZone_Menu",
+    "path": "Res/Zone/LobbyZone/Prefabs/LobbyZoneMenu.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_lobbyzone"
+  },
+  {
+    "key": "ak_LobbyZone_View",
+    "path": "Res/Zone/LobbyZone/Prefabs/LobbyZoneView.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_lobbyzone"
+  },
+  {
+    "key": "ak_LobbyZone_aquarium",
+    "path": "Res/Zone/LobbyZone/Prefabs/BgPrefabs/Aquarium.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_lobbyzone"
+  },
+  {
+    "key": "ak_LobbyZone_TimeWallpaper",
+    "path": "Res/Zone/LobbyZone/Prefabs/BgPrefabs/TimeWallpaper.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_lobbyzone"
+  },
+  {
+    "key": "ak_LobbyZone_single",
+    "path": "Res/Zone/LobbyZone/Prefabs/BgPrefabs/SingleVideo.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_lobbyzone"
+  },
+  {
+    "key": "ak_LobbyUiView_Atlas",
+    "path": "Res/Zone/LobbyZone/Texture/LobbyUiView.spriteatlas",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_lobbyzone"
+  },
+  {
+    "key": "ak_LobbyUiMenu_Atlas",
+    "path": "Res/Zone/LobbyZone/Texture/LobbyUiMenu.spriteatlas",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_lobbyzone"
+  },
+  {
+    "key": "ak_LobbyZone_Rec_WakeUp",
+    "path": "Res/Zone/LobbyZone/Texture/Rec_WakeUp.png",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_lobbyzone"
+  },
+  {
+    "key": "ak_LobbyZone_Rec_Sleep",
+    "path": "Res/Zone/LobbyZone/Texture/Rec_Sleep.png",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_lobbyzone"
+  },
+  {
+    "key": "ak_LobbyZone_Rec_Rest",
+    "path": "Res/Zone/LobbyZone/Texture/Rec_Rest.png",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_lobbyzone"
+  },
+  {
+    "key": "ak_LobbyZone_Rec_Focus",
+    "path": "Res/Zone/LobbyZone/Texture/Rec_Focus.png",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_lobbyzone"
+  },
+  {
+    "key": "ak_musiczone_menu",
+    "path": "Res/Zone/MusicZone/Prefabs/Menu/MusicZoneMenu.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_musiczone"
+  },
+  {
+    "key": "ak_musiczone_progress",
+    "path": "Res/Zone/MusicZone/Prefabs/Tip/MusicProgressView.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_musiczone"
+  },
+  {
+    "key": "ak_wz_menu",
+    "path": "Res/Zone/WorkZone/WorkZoneMenuView.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_wz_loading",
+    "path": "Res/Zone/WorkZone/WorkLoading.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_wz_detail",
+    "path": "Res/Zone/WorkZone/WorkDetail.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_workzone"
+  },
+  {
+    "key": "ak_musiczone_music_sheet",
+    "path": "Res/Zone/MusicZone/Prefabs/Tip/MusicSheetList.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_musiczone"
+  },
+  {
+    "key": "ak_musiczone_music_history",
+    "path": "Res/Zone/MusicZone/Prefabs/Tip/MusichistoryList.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_musiczone"
+  },
+  {
+    "key": "ak_musiczone_music_data0",
+    "path": "Res/LocalMusic/Debug/Will_the_Circle_Be_Unbroken.prefab",
+    "debug": true,
+    "path_en": "",
+    "ab_pack": "other"
+  },
+  {
+    "key": "ak_musiczone_music_data1",
+    "path": "Res/LocalMusic/Debug/HelloTomorrow.prefab",
+    "debug": true,
+    "path_en": "",
+    "ab_pack": "other"
+  },
+  {
+    "key": "ak_musiczone_music_data2",
+    "path": "Res/LocalMusic/Debug/FloatFarAway.prefab",
+    "debug": true,
+    "path_en": "",
+    "ab_pack": "other"
+  },
+  {
+    "key": "ak_musiczone_music_data3",
+    "path": "Res/LocalMusic/Debug/YUI_again.prefab",
+    "debug": true,
+    "path_en": "",
+    "ab_pack": "other"
+  },
+  {
+    "key": "ak_musiczone_music_data4",
+    "path": "Res/LocalMusic/Debug/DAOKO.prefab",
+    "debug": true,
+    "path_en": "",
+    "ab_pack": "other"
+  },
+  {
+    "key": "ak_musiczone_focus_focus",
+    "path": "Res/LocalMusic/Health/focus_focus.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "other"
+  },
+  {
+    "key": "ak_musiczone_rest_ambient",
+    "path": "Res/LocalMusic/Health/rest_ambient.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "other"
+  },
+  {
+    "key": "ak_musiczone_sleep_assist",
+    "path": "Res/LocalMusic/Health/sleep_assist.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "other"
+  },
+  {
+    "key": "ak_musiczone_sleep_ready",
+    "path": "Res/LocalMusic/Health/sleep_ready.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "other"
+  },
+  {
+    "key": "ak_musiczone_wake_awake",
+    "path": "Res/LocalMusic/Health/wake_awake.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "other"
+  },
+  {
+    "key": "ak_musiczone_wake_music",
+    "path": "Res/LocalMusic/Health/wake_music.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "other"
+  },
+  {
+    "key": "ak_hz_countDown",
+    "path": "Res/Zone/HealthZone/HZCountDownView.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_healthzone"
+  },
+  {
+    "key": "ak_hz_alarm",
+    "path": "Res/Zone/HealthZone/HZAlarmView.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_healthzone"
+  },
+  {
+    "key": "ak_hz_info",
+    "path": "Res/Zone/HealthZone/HZInfoView.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_healthzone"
+  },
+  {
+    "key": "ak_hz_music",
+    "path": "Res/Zone/HealthZone/HZMusicView.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_healthzone"
+  },
+  {
+    "key": "ak_hz_video",
+    "path": "Res/Zone/HealthZone/HZVideoView.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_healthzone"
+  },
+  {
+    "key": "ak_hz_menu",
+    "path": "Res/Zone/HealthZone/Prefabs/HealthZoneMenu.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_healthzone"
+  },
+  {
+    "key": "ak_hz_planMenu",
+    "path": "Res/Zone/HealthZone/Prefabs/HealthPlanMenu.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_healthzone"
+  },
+  {
+    "key": "ak_hz_videoplay",
+    "path": "Res/Zone/HealthZone/VideoPlayView.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_healthzone"
+  },
+  {
+    "key": "ak_hz_timeSet",
+    "path": "Res/Zone/HealthZone/Prefabs/TimeSet/TimeSet.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_healthzone"
+  },
+  {
+    "key": "ak_hz_awakenStageSet",
+    "path": "Res/Zone/HealthZone/Prefabs/StageSet/AwakenStageSet.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_healthzone"
+  },
+  {
+    "key": "ak_hz_fcousStageSet",
+    "path": "Res/Zone/HealthZone/Prefabs/StageSet/FcousStageSet.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_healthzone"
+  },
+  {
+    "key": "ak_hz_restStageSet",
+    "path": "Res/Zone/HealthZone/Prefabs/StageSet/RestStageSet.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_healthzone"
+  },
+  {
+    "key": "ak_hz_sleepStageSet",
+    "path": "Res/Zone/HealthZone/Prefabs/StageSet/SleepStageSet.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_healthzone"
+  },
+  {
+    "key": "ak_hz_dormancy",
+    "path": "Res/Zone/HealthZone/Prefabs/HzFlowDormancyView.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_healthzone"
+  },
+  {
+    "key": "ak_hz_HealthTipsV",
+    "path": "Res/Zone/HealthZone/Prefabs/HealthTipsV.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_healthzone"
+  },
+  {
+    "key": "ak_hz_HealthTipsH",
+    "path": "Res/Zone/HealthZone/Prefabs/HealthTipsH.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_healthzone"
+  },
+  {
+    "key": "ak_mz_kugou_01_top",
+    "path": "Res/Zone/MusicZone/Texture/PopularTop/Kugou/01_top.jpg",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_musiczone"
+  },
+  {
+    "key": "ak_mz_kugou_02_bs",
+    "path": "Res/Zone/MusicZone/Texture/PopularTop/Kugou/02_bs.jpg",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_musiczone"
+  },
+  {
+    "key": "ak_mz_kugou_03_fn",
+    "path": "Res/Zone/MusicZone/Texture/PopularTop/Kugou/03_fn.jpg",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_musiczone"
+  },
+  {
+    "key": "ak_mz_kugou_04_dy",
+    "path": "Res/Zone/MusicZone/Texture/PopularTop/Kugou/04_dy.jpg",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_musiczone"
+  },
+  {
+    "key": "ak_mz_kugou_05_ks",
+    "path": "Res/Zone/MusicZone/Texture/PopularTop/Kugou/05_ks.jpg",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_musiczone"
+  },
+  {
+    "key": "ak_mz_kugou_06_dj",
+    "path": "Res/Zone/MusicZone/Texture/PopularTop/Kugou/06_dj.jpg",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_musiczone"
+  },
+  {
+    "key": "ak_mz_kugou_07_rap",
+    "path": "Res/Zone/MusicZone/Texture/PopularTop/Kugou/07_rap.jpg",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_musiczone"
+  },
+  {
+    "key": "ak_mz_kugou_08_nd",
+    "path": "Res/Zone/MusicZone/Texture/PopularTop/Kugou/08_nd.jpg",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_musiczone"
+  },
+  {
+    "key": "ak_mz_kugou_09_dy",
+    "path": "Res/Zone/MusicZone/Texture/PopularTop/Kugou/09_dy.jpg",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_musiczone"
+  },
+  {
+    "key": "ak_mz_kugou_10_xg",
+    "path": "Res/Zone/MusicZone/Texture/PopularTop/Kugou/10_xg.jpg",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_musiczone"
+  },
+  {
+    "key": "ak_mz_kugou_11_my",
+    "path": "Res/Zone/MusicZone/Texture/PopularTop/Kugou/11_my.jpg",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_musiczone"
+  },
+  {
+    "key": "ak_mz_kugou_12_tw",
+    "path": "Res/Zone/MusicZone/Texture/PopularTop/Kugou/12_tw.jpg",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_musiczone"
+  },
+  {
+    "key": "ak_mz_kugou_13_om",
+    "path": "Res/Zone/MusicZone/Texture/PopularTop/Kugou/13_om.jpg",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_musiczone"
+  },
+  {
+    "key": "ak_mz_kugou_14_acg",
+    "path": "Res/Zone/MusicZone/Texture/PopularTop/Kugou/14_acg.jpg",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_musiczone"
+  },
+  {
+    "key": "ak_mz_kugou_15_hg",
+    "path": "Res/Zone/MusicZone/Texture/PopularTop/Kugou/15_hg.jpg",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_musiczone"
+  },
+  {
+    "key": "ak_mz_netcloud_01_dy",
+    "path": "Res/Zone/MusicZone/Texture/PopularTop/NetCloud/01_dy.jpg",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_musiczone"
+  },
+  {
+    "key": "ak_mz_netcloud_02_us",
+    "path": "Res/Zone/MusicZone/Texture/PopularTop/NetCloud/02_us.jpg",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_musiczone"
+  },
+  {
+    "key": "ak_mz_netcloud_03_uk",
+    "path": "Res/Zone/MusicZone/Texture/PopularTop/NetCloud/03_uk.jpg",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_musiczone"
+  },
+  {
+    "key": "ak_mz_netcloud_04_jp",
+    "path": "Res/Zone/MusicZone/Texture/PopularTop/NetCloud/04_jp.jpg",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_musiczone"
+  },
+  {
+    "key": "ak_mz_netcloud_05_fr",
+    "path": "Res/Zone/MusicZone/Texture/PopularTop/NetCloud/05_fr.jpg",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_musiczone"
+  },
+  {
+    "key": "ak_mz_netcloud_06_rus",
+    "path": "Res/Zone/MusicZone/Texture/PopularTop/NetCloud/06_rus.jpg",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_musiczone"
+  },
+  {
+    "key": "ak_mz_netcloud_07_tg",
+    "path": "Res/Zone/MusicZone/Texture/PopularTop/NetCloud/07_tg.jpg",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_musiczone"
+  },
+  {
+    "key": "ak_mz_netcloud_08_ql",
+    "path": "Res/Zone/MusicZone/Texture/PopularTop/NetCloud/08_ql.jpg",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_musiczone"
+  },
+  {
+    "key": "ak_mz_netcloud_09_dh",
+    "path": "Res/Zone/MusicZone/Texture/PopularTop/NetCloud/09_dh.jpg",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_musiczone"
+  },
+  {
+    "key": "ak_mz_netcloud_10_yx",
+    "path": "Res/Zone/MusicZone/Texture/PopularTop/NetCloud/10_yx.jpg",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_musiczone"
+  },
+  {
+    "key": "ak_mz_netcloud_11_v",
+    "path": "Res/Zone/MusicZone/Texture/PopularTop/NetCloud/11_v.jpg",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_musiczone"
+  },
+  {
+    "key": "ak_mz_netcloud_12_ktv",
+    "path": "Res/Zone/MusicZone/Texture/PopularTop/NetCloud/12_ktv.jpg",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_musiczone"
+  },
+  {
+    "key": "ak_mz_netcloud_13_xxc",
+    "path": "Res/Zone/MusicZone/Texture/PopularTop/NetCloud/13_xxc.jpg",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_musiczone"
+  },
+  {
+    "key": "ak_mz_netcloud_14_wq",
+    "path": "Res/Zone/MusicZone/Texture/PopularTop/NetCloud/14_wq.jpg",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_musiczone"
+  },
+  {
+    "key": "ak_mz_netcloud_15_eg",
+    "path": "Res/Zone/MusicZone/Texture/PopularTop/NetCloud/15_eg.jpg",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_musiczone"
+  },
+  {
+    "key": "ak_musiczone_playctrl_tip",
+    "path": "Res/Zone/MusicZone/Prefabs/Tip/PlayCtrlTip.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_musiczone"
+  },
+  {
+    "key": "ak_healthzone_img_1",
+    "path": "Res/Zone/HealthZone/Texture/LocalImg/focus1.jpg",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_healthzone"
+  },
+  {
+    "key": "ak_healthzone_img_2",
+    "path": "Res/Zone/HealthZone/Texture/LocalImg/focus2.jpg",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_healthzone"
+  },
+  {
+    "key": "ak_healthzone_img_3",
+    "path": "Res/Zone/HealthZone/Texture/LocalImg/rest1.jpg",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_healthzone"
+  },
+  {
+    "key": "ak_healthzone_img_4",
+    "path": "Res/Zone/HealthZone/Texture/LocalImg/rest2.jpg",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_healthzone"
+  },
+  {
+    "key": "ak_healthzone_img_5",
+    "path": "Res/Zone/HealthZone/Texture/LocalImg/rest3.jpg",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_healthzone"
+  },
+  {
+    "key": "ak_healthzone_img_6",
+    "path": "Res/Zone/HealthZone/Texture/LocalImg/rest4.jpg",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_healthzone"
+  },
+  {
+    "key": "ak_healthzone_img_7",
+    "path": "Res/Zone/HealthZone/Texture/LocalImg/rest5.jpg",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_healthzone"
+  },
+  {
+    "key": "ak_healthzone_img_8",
+    "path": "Res/Zone/HealthZone/Texture/LocalImg/wake1.jpg",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_healthzone"
+  },
+  {
+    "key": "ak_healthzone_img_9",
+    "path": "Res/Zone/HealthZone/Texture/LocalImg/wake2.jpg",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_healthzone"
+  },
+  {
+    "key": "ak_healthzone_img_10",
+    "path": "Res/Zone/HealthZone/Texture/LocalImg/wake3.jpg",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_healthzone"
+  },
+  {
+    "key": "ak_healthzone_img_card_1",
+    "path": "Res/Zone/HealthZone/Texture/Dynamic/focus1_card.png",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_healthzone"
+  },
+  {
+    "key": "ak_healthzone_img_card_2",
+    "path": "Res/Zone/HealthZone/Texture/Dynamic/focus2_card.png",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_healthzone"
+  },
+  {
+    "key": "ak_healthzone_img_card_3",
+    "path": "Res/Zone/HealthZone/Texture/Dynamic/rest1_card.png",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_healthzone"
+  },
+  {
+    "key": "ak_healthzone_img_card_4",
+    "path": "Res/Zone/HealthZone/Texture/Dynamic/rest2_card.png",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_healthzone"
+  },
+  {
+    "key": "ak_healthzone_img_card_5",
+    "path": "Res/Zone/HealthZone/Texture/Dynamic/rest3_card.png",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_healthzone"
+  },
+  {
+    "key": "ak_healthzone_img_card_6",
+    "path": "Res/Zone/HealthZone/Texture/Dynamic/rest4_card.png",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_healthzone"
+  },
+  {
+    "key": "ak_healthzone_img_card_7",
+    "path": "Res/Zone/HealthZone/Texture/Dynamic/rest5_card.png",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_healthzone"
+  },
+  {
+    "key": "ak_healthzone_img_card_8",
+    "path": "Res/Zone/HealthZone/Texture/Dynamic/wake1_card.png",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_healthzone"
+  },
+  {
+    "key": "ak_healthzone_img_card_9",
+    "path": "Res/Zone/HealthZone/Texture/Dynamic/wake2_card.png",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_healthzone"
+  },
+  {
+    "key": "ak_healthzone_img_card_10",
+    "path": "Res/Zone/HealthZone/Texture/Dynamic/wake3_card.png",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_healthzone"
+  },
+  {
+    "key": "ak_zone_loadview",
+    "path": "Res/Common/ZoneLoading.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "other"
+  },
+  {
+    "key": "ak_music_fftdatashower",
+    "path": "Res/Zone/MusicZone/Prefabs/FFTDataShower.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_musiczone"
+  },
+  {
+    "key": "ak_value_debug_panel",
+    "path": "Res/Common/ValuePanel.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "other"
+  },
+  {
+    "key": "ak_debug_logpanel",
+    "path": "Res/Common/DebugPanel.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "other"
+  },
+  {
+    "key": "ak_musiczone_btlrctip",
+    "path": "Res/Zone/MusicZone/Prefabs/Tip/BtLrcTip.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_musiczone"
+  },
+  {
+    "key": "ak_musiczone_music_recommend",
+    "path": "Res/Zone/MusicZone/Prefabs/Tip/MusicRecommendList.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_musiczone"
+  },
+  {
+    "key": "ak_musiczone_billboard_kugou",
+    "path": "Res/Zone/MusicZone/Prefabs/Menu/Third/Billboard/PopularTop_Kugou.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_musiczone"
+  },
+  {
+    "key": "ak_musiczone_billboard_netease",
+    "path": "Res/Zone/MusicZone/Prefabs/Menu/Third/Billboard/PopularTop_Netease.prefab",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_zone_musiczone"
+  },
+  {
+    "path": "Res/Table/Json/AITips.json",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_table_json"
+  },
+  {
+    "path": "Res/Table/Json/AccompanyAssetUrl.json",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_table_json"
+  },
+  {
+    "path": "Res/Table/Json/AiTipsMusic.json",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_table_json"
+  },
+  {
+    "path": "Res/Table/Json/Asset.json",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_table_json"
+  },
+  {
+    "path": "Res/Table/Json/DIYFrame.json",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_table_json"
+  },
+  {
+    "path": "Res/Table/Json/DIYResource.json",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_table_json"
+  },
+  {
+    "path": "Res/Table/Json/DefaultGreeting.json",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_table_json"
+  },
+  {
+    "path": "Res/Table/Json/Equipment.json",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_table_json"
+  },
+  {
+    "path": "Res/Table/Json/HealthLocalData.json",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_table_json"
+  },
+  {
+    "path": "Res/Table/Json/HealthLocalImg.json",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_table_json"
+  },
+  {
+    "path": "Res/Table/Json/Language.json",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_table_json"
+  },
+  {
+    "path": "Res/Table/Json/LobbyBgVideo.json",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_table_json"
+  },
+  {
+    "path": "Res/Table/Json/MusicEffect.json",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_table_json"
+  },
+  {
+    "path": "Res/Table/Json/MusicLocalData.json",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_table_json"
+  },
+  {
+    "path": "Res/Table/Json/NeonGreeting.json",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_table_json"
+  },
+  {
+    "path": "Res/Table/Json/VideoService.json",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_table_json"
+  },
+  {
+    "path": "Res/Table/Json/WeatherImage.json",
+    "debug": false,
+    "path_en": "",
+    "ab_pack": "res_table_json"
+  }
+]

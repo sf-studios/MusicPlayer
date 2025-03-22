@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+  m_Name: "LobbyOPPOSans_B_SDF"
+  m_EditorClassIdentifier: 
+  hashCode: 2073883270
+  material: {fileID: 2100000, guid: 56967fecdd414e1587e7df9dc3b0be3f, type: 2}
+  materialHashCode: 581113446
+  m_Version: "1.1.0"
+  m_SourceFontFileGUID: "61f1734915162ba4c88c5d2721bb4c2e"
+  m_SourceFontFile_EditorRef: {fileID: 12800000, guid: 542162da621c47ffb6404544150c67ec, type: 3}
+  m_SourceFontFile: {fileID: 0}
+  m_AtlasPopulationMode: 1330663503
+  m_FaceInfo:
+    m_FaceIndex: 1936613715
+    m_FamilyName: "Bold"
+    m_StyleName: 
+    m_PointSize: 1056964608
+    m_Scale: -4
+    m_LineHeight: 2
+    m_AscentLine: 8.8
+    m_CapLine: 2
+    m_MeanLine: 12
+    m_Baseline: 9.809089E-45
+    m_DescentLine: 6.417947E-43
+    m_SuperscriptOffset: 21.17188
+    m_SuperscriptSize: 33.17188
+    m_SubscriptOffset: 2.875
+    m_SubscriptSize: 29.76563
+    m_UnderlineOffset: 26.3125
+    m_UnderlineThickness: 1.401298E-44
+    m_StrikethroughOffset: 1.401298E-44
+    m_StrikethroughThickness: 3.222986E-44
+    m_TabWidth: 4.764415E-44
+  m_GlyphTable: []

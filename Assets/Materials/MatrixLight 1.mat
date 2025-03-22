@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: "MatrixLight 1"
+  m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords: "_AUDIOYSTRENGTH2_AUDIO1"
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - _1312313: 2
+    - _AlphaCutoff: 0.5
+    - _AudioYStrength2: 0
+    - _ColorIntensity: 1.6
+    - _Float0: 0
+    - _Float1: 6
+    - _Float11: 3.57
+    - _Float2: 0.37
+    - _Float24: 6
+    - _Float3: 4
+    - _Float5: -0.8
+    - _FrequencyIntensity: 0.2
+    - _HightRange: 12
+    - _Intensity: 1
+    - _LensDistortion: 0.2
+    - _LensDistortionIntensity: 3.2
+    - _LineEndFog: 10.7
+    - _LineStarFog: 15.1
+    - _LineStarFog1: 12
+    - _LowRange: 0
+    - _Max: 1
+    - _MidRange: 7
+    - _Min: 0
+    - _Power: 0.1
+    - _Push: 1
+    - _RamdomSpeed: 2
+    - _Scale_max: 0
+    - _TwinkleSpeed: 1
+    - _TwinkleSpeed2: 2
+    - _ZPush: 0.5682353
+    m_Colors:
+    - _BackColor: {r: 0.5686275, g: 0.509804, b: 0.6627451, a: 1}
+    - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Color0: {r: 0.06212175, g: 0.04877181, b: 0.0754717, a: 0}
+    - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
+    - _FrontColor: {r: 0.1988697, g: 0.2352419, b: 0.3867925, a: 1}
+    - _OverlayColor: {r: 0.6431373, g: 0.4509804, b: 0.8980393, a: 1}
+    - _XY: {r: 1.11, g: 1, b: 0, a: 0}
+    - _XYZZ: {r: 1.17, g: 1, b: 1.06, a: 0}

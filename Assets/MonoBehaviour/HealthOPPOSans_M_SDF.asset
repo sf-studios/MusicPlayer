@@ -1,0 +1,629 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+  m_Name: "HealthOPPOSans_M_SDF"
+  m_EditorClassIdentifier: 
+  hashCode: 1410675119
+  material: {fileID: 2100000, guid: ba2ed9dcc78f4a19ad7394a47c1620af, type: 2}
+  materialHashCode: -41791185
+  m_Version: "1.1.0"
+  m_SourceFontFileGUID: "d3da7638399ff28429003d3b959d0332"
+  m_SourceFontFile_EditorRef: {fileID: 12800000, guid: 43b5355fdab047b69b7cd0fb84af3f28, type: 3}
+  m_SourceFontFile: {fileID: 0}
+  m_AtlasPopulationMode: 1330663503
+  m_FaceInfo:
+    m_FaceIndex: 1936613715
+    m_FamilyName: "Medium"
+    m_StyleName: 
+    m_PointSize: 10
+    m_Scale: 1.401298E-44
+    m_LineHeight: 1.008935E-43
+    m_AscentLine: 1.821688E-44
+    m_CapLine: 1
+    m_MeanLine: 0
+    m_Baseline: 9.24857E-43
+    m_DescentLine: 26.09375
+    m_SuperscriptOffset: 7.46875
+    m_SuperscriptSize: 0
+    m_SubscriptOffset: -19.625
+    m_SubscriptSize: 26.09375
+    m_UnderlineOffset: 1.415311E-43
+    m_UnderlineThickness: 1.401298E-44
+    m_StrikethroughOffset: 3.783506E-44
+    m_StrikethroughThickness: 1.261169E-44
+    m_TabWidth: 1
+  m_GlyphTable: []
+  m_CharacterTable:
+  - m_ElementType: 1102970880
+    m_Unicode: 1116745728
+    m_GlyphIndex: 1083572224
+    m_Scale: 66.42188
+  - m_ElementType: 1109360640
+    m_Unicode: 147
+    m_GlyphIndex: 10
+    m_Scale: 3.503246E-44
+  - m_ElementType: 73
+    m_Unicode: 1065353216
+    m_GlyphIndex: 0
+    m_Scale: 7.426882E-43
+  - m_ElementType: 1094221824
+    m_Unicode: 1094205440
+    m_GlyphIndex: 1087700992
+    m_Scale: 5.21875
+  - m_ElementType: 1103544320
+    m_Unicode: 101
+    m_GlyphIndex: 38
+    m_Scale: 1.821688E-44
+  - m_ElementType: 13
+    m_Unicode: 1065353216
+    m_GlyphIndex: 0
+    m_Scale: 1.93127E-41
+  - m_ElementType: 1117394944
+    m_Unicode: 1118572544
+    m_GlyphIndex: 1090715648
+    m_Scale: 74.15625
+  - m_ElementType: 1119092736
+    m_Unicode: 10
+    m_GlyphIndex: 70
+    m_Scale: 1.093013E-43
+  - m_ElementType: 87
+    m_Unicode: 1065353216
+    m_GlyphIndex: 0
+    m_Scale: 3.638892E-41
+  - m_ElementType: 1116758016
+    m_Unicode: 1118349312
+    m_GlyphIndex: 1091567616
+    m_Scale: 73.26563
+  - m_ElementType: 1119092736
+    m_Unicode: 191
+    m_GlyphIndex: 10
+    m_Scale: 1.022948E-43
+  - m_ElementType: 86
+    m_Unicode: 1065353216
+    m_GlyphIndex: 0
+    m_Scale: 3.327243E-41
+  - m_ElementType: 1117937664
+    m_Unicode: 1118584832
+    m_GlyphIndex: 1082228736
+    m_Scale: 73.79688
+  - m_ElementType: 1119092736
+    m_Unicode: 283
+    m_GlyphIndex: 10
+    m_Scale: 1.149065E-43
+  - m_ElementType: 87
+    m_Unicode: 1065353216
+    m_GlyphIndex: 0
+    m_Scale: 3.27049E-41
+  - m_ElementType: 1118339072
+    m_Unicode: 1118111744
+    m_GlyphIndex: 1080819712
+    m_Scale: 71.45313
+  - m_ElementType: 1119092736
+    m_Unicode: 107
+    m_GlyphIndex: 115
+    m_Scale: 1.191104E-43
+  - m_ElementType: 84
+    m_Unicode: 1065353216
+    m_GlyphIndex: 0
+    m_Scale: 6.375908E-43
+  - m_ElementType: 1110913024
+    m_Unicode: 1116887040
+    m_GlyphIndex: 1085833216
+    m_Scale: 67.5
+  - m_ElementType: 1113866240
+    m_Unicode: 211
+    m_GlyphIndex: 115
+    m_Scale: 6.586103E-44
+  - m_ElementType: 74
+    m_Unicode: 1065353216
+    m_GlyphIndex: 0
+    m_Scale: 2.542096E-41
+  - m_ElementType: 1117558784
+    m_Unicode: 1117536256
+    m_GlyphIndex: 1088847872
+    m_Scale: 69.9375
+  - m_ElementType: 1119092736
+    m_Unicode: 384
+    m_GlyphIndex: 10
+    m_Scale: 1.107026E-43
+  - m_ElementType: 79
+    m_Unicode: 1065353216
+    m_GlyphIndex: 0
+    m_Scale: 1.211983E-41
+  - m_ElementType: 1117900800
+    m_Unicode: 1118527488
+    m_GlyphIndex: 1082621952
+    m_Scale: 74.70313
+  - m_ElementType: 1119092736
+    m_Unicode: 482
+    m_GlyphIndex: 10
+    m_Scale: 1.149065E-43
+  - m_ElementType: 86
+    m_Unicode: 1065353216
+    m_GlyphIndex: 0
+    m_Scale: 2.137681E-41
+  - m_ElementType: 1118455808
+    m_Unicode: 1118656512
+    m_GlyphIndex: 1077805056
+    m_Scale: 73.79688
+  - m_ElementType: 1119092736
+    m_Unicode: 583
+    m_GlyphIndex: 10
+    m_Scale: 1.21913E-43
+  - m_ElementType: 87
+    m_Unicode: 1065353216
+    m_GlyphIndex: 0
+    m_Scale: 1.378878E-41
+  - m_ElementType: 1116651520
+    m_Unicode: 1117560832
+    m_GlyphIndex: 1091944448
+    m_Scale: 68.76563
+  - m_ElementType: 1119092736
+    m_Unicode: 10
+    m_GlyphIndex: 176
+    m_Scale: 1.008935E-43
+  - m_ElementType: 79
+    m_Unicode: 1065353216
+    m_GlyphIndex: 0
+    m_Scale: 6.389921E-43
+  - m_ElementType: 1110704128
+    m_Unicode: 1116887040
+    m_GlyphIndex: 1087897600
+    m_Scale: 66.42188
+  - m_ElementType: 1113866240
+    m_Unicode: 384
+    m_GlyphIndex: 108
+    m_Scale: 6.445973E-44
+  - m_ElementType: 74
+    m_Unicode: 1065353216
+    m_GlyphIndex: 0
+    m_Scale: 2.510146E-41
+  - m_ElementType: 1115920384
+    m_Unicode: 1118124032
+    m_GlyphIndex: 1094680576
+    m_Scale: 74.15625
+  - m_ElementType: 1119092736
+    m_Unicode: 277
+    m_GlyphIndex: 116
+    m_Scale: 9.3887E-44
+  - m_ElementType: 84
+    m_Unicode: 1065353216
+    m_GlyphIndex: 0
+    m_Scale: 1.35954E-41
+  - m_ElementType: 1117818880
+    m_Unicode: 1117888512
+    m_GlyphIndex: 1088454656
+    m_Scale: 69.5625
+  - m_ElementType: 1119092736
+    m_Unicode: 449
+    m_GlyphIndex: 115
+    m_Scale: 1.135052E-43
+  - m_ElementType: 82
+    m_Unicode: 1065353216
+    m_GlyphIndex: 0
+    m_Scale: 3.710498E-41
+  - m_ElementType: 1117876224
+    m_Unicode: 1118208000
+    m_GlyphIndex: 1083572224
+    m_Scale: 73.625
+  - m_ElementType: 1119092736
+    m_Unicode: 101
+    m_GlyphIndex: 218
+    m_Scale: 1.149065E-43
+  - m_ElementType: 84
+    m_Unicode: 1065353216
+    m_GlyphIndex: 0
+    m_Scale: 1.224875E-41
+  - m_ElementType: 1117536256
+    m_Unicode: 1118478336
+    m_GlyphIndex: 1080426496
+    m_Scale: 72.625
+  - m_ElementType: 1119092736
+    m_Unicode: 689
+    m_GlyphIndex: 10
+    m_Scale: 1.107026E-43
+  - m_ElementType: 86
+    m_Unicode: 1065353216
+    m_GlyphIndex: 0
+    m_Scale: 2.532987E-41
+  - m_ElementType: 1117759488
+    m_Unicode: 1117843456
+    m_GlyphIndex: 1090535424
+    m_Scale: 68.76563
+  - m_ElementType: 1119092736
+    m_Unicode: 787
+    m_GlyphIndex: 10
+    m_Scale: 1.121039E-43
+  - m_ElementType: 81
+    m_Unicode: 1065353216
+    m_GlyphIndex: 0
+    m_Scale: 2.662467E-44
+  - m_ElementType: 1
+    m_Unicode: 8230
+    m_GlyphIndex: 534
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 95
+    m_GlyphIndex: 660
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 49
+    m_GlyphIndex: 454
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 46
+    m_GlyphIndex: 530
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 26202
+    m_GlyphIndex: 13782
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 38388
+    m_GlyphIndex: 25968
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 36164
+    m_GlyphIndex: 23744
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 35759
+    m_GlyphIndex: 23339
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 50
+    m_GlyphIndex: 455
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 30561
+    m_GlyphIndex: 18141
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 21069
+    m_GlyphIndex: 8649
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 27675
+    m_GlyphIndex: 15255
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 22260
+    m_GlyphIndex: 9840
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 51
+    m_GlyphIndex: 456
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 30333
+    m_GlyphIndex: 17913
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 22122
+    m_GlyphIndex: 9702
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 38899
+    m_GlyphIndex: 26479
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 21161
+    m_GlyphIndex: 8741
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 30496
+    m_GlyphIndex: 18076
+    m_Scale: 1
+  - m_ElementType: 2
+    m_Unicode: 0
+    m_GlyphIndex: 4231329379
+    m_Scale: -5.632452E+15
+  - m_ElementType: 0
+    m_Unicode: 0
+    m_GlyphIndex: 0
+    m_Scale: 0
+  - m_ElementType: 1
+    m_Unicode: 1
+    m_GlyphIndex: 19
+    m_Scale: 0
+  - m_ElementType: 0
+    m_Unicode: 91
+    m_GlyphIndex: 32
+    m_Scale: 1.275182E-43
+  - m_ElementType: 0
+    m_Unicode: 46
+    m_GlyphIndex: 28
+    m_Scale: 1.919779E-43
+  - m_ElementType: 0
+    m_Unicode: 44
+    m_GlyphIndex: 92
+    m_Scale: 1.275182E-43
+  - m_ElementType: 28
+    m_Unicode: 32
+    m_GlyphIndex: 32
+    m_Scale: 0
+  - m_ElementType: 60
+    m_Unicode: 97
+    m_GlyphIndex: 106
+    m_Scale: 2.53635E-43
+  - m_ElementType: 0
+    m_Unicode: 92
+    m_GlyphIndex: 105
+    m_Scale: 3.825545E-43
+  - m_ElementType: 0
+    m_Unicode: 101
+    m_GlyphIndex: 106
+    m_Scale: 1.35926E-43
+  - m_ElementType: 105
+    m_Unicode: 104
+    m_GlyphIndex: 103
+    m_Scale: 2.81661E-43
+  - m_ElementType: 105
+    m_Unicode: 66
+    m_GlyphIndex: 93
+    m_Scale: 5.240856E-43
+  - m_ElementType: 0
+    m_Unicode: 98
+    m_GlyphIndex: 98
+    m_Scale: 6.614129E-43
+  - m_ElementType: 0
+    m_Unicode: 101
+    m_GlyphIndex: 105
+    m_Scale: 8.02944E-43
+  - m_ElementType: 0
+    m_Unicode: 106
+    m_GlyphIndex: 106
+    m_Scale: 0
+  - m_ElementType: 166
+    m_Unicode: 91
+    m_GlyphIndex: 98
+    m_Scale: 5.240856E-43
+  - m_ElementType: 98
+    m_Unicode: 65
+    m_GlyphIndex: 93
+    m_Scale: 3.741467E-43
+  - m_ElementType: 106
+    m_Unicode: 86
+    m_GlyphIndex: 103
+    m_Scale: 6.1517E-43
+  - m_ElementType: 105
+    m_Unicode: 100
+    m_GlyphIndex: 101
+    m_Scale: 1.275182E-43
+  - m_ElementType: 208
+    m_Unicode: 101
+    m_GlyphIndex: 103
+    m_Scale: 9.514817E-43
+  - m_ElementType: 0
+    m_Unicode: 98
+    m_GlyphIndex: 105
+    m_Scale: 1.088809E-42
+  - m_ElementType: 0
+    m_Unicode: 99
+    m_GlyphIndex: 100
+    m_Scale: 2.802597E-44
+  - m_ElementType: 0
+    m_Unicode: 32
+    m_GlyphIndex: 91
+    m_Scale: 3.923636E-44
+  - m_ElementType: 123
+    m_Unicode: 28
+    m_GlyphIndex: 14
+    m_Scale: 1.079E-43
+  - m_ElementType: 97
+    m_Unicode: 60
+    m_GlyphIndex: 40
+    m_Scale: 6.305843E-44
+  - m_ElementType: 97
+    m_Unicode: 92
+    m_GlyphIndex: 84
+    m_Scale: 1.821688E-44
+  - m_ElementType: 201
+    m_Unicode: 198
+    m_GlyphIndex: 66
+    m_Scale: 1.156071E-42
+  - m_ElementType: 267
+    m_Unicode: 105
+    m_GlyphIndex: 6
+    m_Scale: 1.401298E-45
+  - m_ElementType: 353
+    m_Unicode: 106
+    m_GlyphIndex: 21
+    m_Scale: 1.284991E-42
+  - m_ElementType: 539
+    m_Unicode: 106
+    m_GlyphIndex: 484
+    m_Scale: 1.284991E-42
+  - m_ElementType: 439
+    m_Unicode: 98
+    m_GlyphIndex: 33
+    m_Scale: 9.809089E-45
+  - m_ElementType: 539
+    m_Unicode: 105
+    m_GlyphIndex: 34
+    m_Scale: 1.286392E-42
+  - m_ElementType: 353
+    m_Unicode: 206
+    m_GlyphIndex: 670
+    m_Scale: 1.144861E-42
+  - m_ElementType: 353
+    m_Unicode: 191
+    m_GlyphIndex: 86
+    m_Scale: 1.16588E-42
+  - m_ElementType: 0
+    m_Unicode: 311
+    m_GlyphIndex: 1023
+    m_Scale: 9.977245E-43
+  - m_ElementType: 0
+    m_Unicode: 264
+    m_GlyphIndex: 91
+    m_Scale: 1.063586E-42
+  - m_ElementType: 91
+    m_Unicode: 166
+    m_GlyphIndex: 6
+    m_Scale: 5.885454E-44
+  - m_ElementType: 192
+    m_Unicode: 209
+    m_GlyphIndex: 831
+    m_Scale: 1.140657E-42
+  - m_ElementType: 192
+    m_Unicode: 208
+    m_GlyphIndex: 75
+    m_Scale: 1.142058E-42
+  - m_ElementType: 679
+    m_Unicode: 105
+    m_GlyphIndex: 344
+    m_Scale: 1.286392E-42
+  - m_ElementType: 777
+    m_Unicode: 100
+    m_GlyphIndex: 246
+    m_Scale: 1.293398E-42
+  - m_ElementType: 876
+    m_Unicode: 0
+    m_GlyphIndex: 147
+    m_Scale: 1.433528E-42
+  - m_ElementType: 0
+    m_Unicode: 0
+    m_GlyphIndex: 0
+    m_Scale: 0
+  - m_ElementType: 0
+    m_Unicode: 0
+    m_GlyphIndex: 0
+    m_Scale: 0
+  - m_ElementType: 0
+    m_Unicode: 0
+    m_GlyphIndex: 0
+    m_Scale: 0
+  - m_ElementType: 0
+    m_Unicode: 0
+    m_GlyphIndex: 0
+    m_Scale: 0
+  - m_ElementType: 0
+    m_Unicode: 0
+    m_GlyphIndex: 0
+    m_Scale: 0
+  - m_ElementType: 0
+    m_Unicode: 0
+    m_GlyphIndex: 0
+    m_Scale: 0
+  - m_ElementType: 1024
+    m_Unicode: 1024
+    m_GlyphIndex: 9
+    m_Scale: 5.836408E-42
+  - m_ElementType: 0
+    m_Unicode: 0
+    m_GlyphIndex: 0
+    m_Scale: 0
+  - m_ElementType: 0
+    m_Unicode: 0
+    m_GlyphIndex: 32
+    m_Scale: 2.630975E+20
+  - m_ElementType: 942880311
+    m_Unicode: 1715026227
+    m_GlyphIndex: 876098150
+    m_Scale: 6.410971E-10
+  - m_ElementType: 1647535155
+    m_Unicode: 1681470777
+    m_GlyphIndex: 842216240
+    m_Scale: 0
+  - m_ElementType: 90
+    m_Unicode: 9
+    m_GlyphIndex: 0
+    m_Scale: 1.43493E-42
+  - m_ElementType: 1024
+    m_Unicode: 6
+    m_GlyphIndex: 0
+    m_Scale: 4.484155E-44
+  - m_ElementType: 1650668851
+    m_Unicode: 962737249
+    m_GlyphIndex: 1667522918
+    m_Scale: 1.69855E-07
+  - m_ElementType: 808673842
+    m_Unicode: 1700946229
+    m_GlyphIndex: 1664169317
+    m_Scale: 8.582603E-07
+  - m_ElementType: 0
+    m_Unicode: 0
+    m_GlyphIndex: 0
+    m_Scale: 5.836408E-42
+  - m_ElementType: 0
+    m_Unicode: 10
+    m_GlyphIndex: 0
+    m_Scale: 0
+  - m_ElementType: 0
+    m_Unicode: 0
+    m_GlyphIndex: 0
+    m_Scale: 0
+  - m_ElementType: 0
+    m_Unicode: 0
+    m_GlyphIndex: 0
+    m_Scale: 0
+  - m_ElementType: 0
+    m_Unicode: 0
+    m_GlyphIndex: 0
+    m_Scale: 0
+  - m_ElementType: 0
+    m_Unicode: 0
+    m_GlyphIndex: 0
+    m_Scale: 0
+  - m_ElementType: 0
+    m_Unicode: 0
+    m_GlyphIndex: 0
+    m_Scale: 0
+  - m_ElementType: 0
+    m_Unicode: 0
+    m_GlyphIndex: 0
+    m_Scale: 0
+  - m_ElementType: 0
+    m_Unicode: 0
+    m_GlyphIndex: 0
+    m_Scale: 0
+  - m_ElementType: 0
+    m_Unicode: 0
+    m_GlyphIndex: 0
+    m_Scale: 0
+  - m_ElementType: 0
+    m_Unicode: 0
+    m_GlyphIndex: 0
+    m_Scale: 0
+  - m_ElementType: 0
+    m_Unicode: 0
+    m_GlyphIndex: 0
+    m_Scale: 0
+  - m_ElementType: 0
+    m_Unicode: 0
+    m_GlyphIndex: 0
+    m_Scale: 0
+  - m_ElementType: 0
+    m_Unicode: 0
+    m_GlyphIndex: 0
+    m_Scale: 0
+  - m_ElementType: 0
+    m_Unicode: 0
+    m_GlyphIndex: 0
+    m_Scale: 0
+  - m_ElementType: 0
+    m_Unicode: 0
+    m_GlyphIndex: 0
+    m_Scale: 0
+  - m_ElementType: 0
+    m_Unicode: 0
+    m_GlyphIndex: 0
+    m_Scale: 0
+  - m_ElementType: 0
+    m_Unicode: 1061158912
+    m_GlyphIndex: 1088421888
+    m_Scale: 4.904545E-44
+  - m_ElementType: 10
+    m_Unicode: 
+    m_GlyphIndex: 
+    m_Scale: 

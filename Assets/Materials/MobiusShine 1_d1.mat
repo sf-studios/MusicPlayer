@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: "MobiusShine 1"
+  m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _ScanMask:
+        m_Texture: {fileID: 2800000, guid: 4783362f1d864d66936553bc9cfc07fa, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Activate_Target: 0
+    - _Activate_Target_2: 0
+    - _Activate_Target_3: 0
+    - _Activate_Target_4: 1
+    - _AlphaClip: 0
+    - _AlphaCutoff: 0.5
+    - _Amount: -128
+    - _Animation_speed: 1
+    - _Bias: 0
+    - _Blend: 0
+    - _Cull: 2
+    - _Cutoff: 0.5
+    - _Debug_Mask: 0
+    - _DefaultOutlineOpacity: 0
+    - _DefaultShrink: 0.047
+    - _DirectionChange: 0
+    - _DstBlend: 0
+    - _ExtrudeUpFaces: 0
+    - _FlowSpeed: 1
+    - _FrontFace_Intensity: 0.22
+    - _InfluenceRadius: 0.5
+    - _Intensity: 1
+    - _NormalPush: 4
+    - _OutlineWidth: 0.2
+    - _Outline_Opacity: 55.5
+    - _PannerX: 1
+    - _PannerY: 0
+    - _Power: 0.2
+    - _Push: 0.12
+    - _QueueOffset: 0
+    - _Range: 0
+    - _SampleGI: 0
+    - _Scale: 1
+    - _ScanMaskIntensity: 1
+    - _ScanMaskRange: 0
+    - _ScanMaskSmoothness: 0.66
+    - _Shrink_Faces_Amplitude: -0.33
+    - _Smoothness: 0.66
+    - _Speed: 2
+    - _SpeedS: 1
+    - _SrcBlend: 1
+    - _Stretching: 0
+    - _Surface: 0
+    - _TargetMode: 0
+    - _TileX: 1
+    - _TileY: 0.05
+    - _UVTime: 0
+    - _Width: 0.05
+    - _ZWrite: 1
+    - _mAlpha: 1.12
+    - _mHDR: 1.6
+    m_Colors:
+    - _BaseColor: {r: 0.3160377, g: 0.5903544, b: 1, a: 1}
+    - _BaseColorA: {r: 0.2264151, g: 0.5037381, b: 0.9056604, a: 0}
+    - _BaseColorB: {r: 0.9445901, g: 0.1839623, b: 1, a: 0}
+    - _Color: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - _ColorA: {r: 0.2264151, g: 0.5037381, b: 0.9056604, a: 0}
+    - _ColorB: {r: 0.9445901, g: 0.1839623, b: 1, a: 0.7607843}
+    - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
+    - _FrontFace_Color: {r: 1, g: 1, b: 1, a: 0}
+    - _Outline_Color: {r: 1, g: 1, b: 1, a: 0}
+    - _Speed: {r: 0, g: 0, b: 0.25, a: 0}
+    - _Vector0: {r: 0, g: 0, b: 0, a: 0}
+    - _Width: {r: 0.06, g: 0.06, b: 0.06, a: 0}
+    - _target: {r: 0, g: 0, b: 0, a: 0}
+    - _target2: {r: 0, g: 0, b: 0, a: 0}
+    - _target3: {r: 0, g: 0, b: 0, a: 0}
+    - _target4: {r: 0, g: 0, b: 0, a: 0}

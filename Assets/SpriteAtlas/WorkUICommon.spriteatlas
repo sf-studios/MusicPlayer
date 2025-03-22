@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &68707889500000
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "WorkUICommon"
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: a3b28f26ef7341deaa4bde3ca215eb29, type: 3}
+    - {fileID: 21300000, guid: a55a120763a64600a88fa2b7a7b30fa1, type: 3}
+    - {fileID: 21300000, guid: 6c05a3e35a26470d89eeaa30b577b6ab, type: 3}
+    - {fileID: 21300000, guid: d02e4f36e6b94050ab11204dd2c3bc48, type: 3}
+    - {fileID: 21300000, guid: 6cf894c10bee46709a16bc241538d441, type: 3}
+    - {fileID: 21300000, guid: 5eb4317036f3492eafe9062fd11be091, type: 3}
+    - {fileID: 21300000, guid: da8fa85c206e4f0bace774ce1236bff7, type: 3}
+    - {fileID: 21300000, guid: 7055ec62481d4f588001540a09a4996b, type: 3}
+    - {fileID: 21300000, guid: b348eaf9303f4bb38e87aa9921475be4, type: 3}
+    - {fileID: 21300000, guid: 7b05dd771cde4daa8b7d16365acac5e7, type: 3}
+    - {fileID: 21300000, guid: 32c046ea3a584da58e6acaf9d92003ff, type: 3}
+    - {fileID: 21300000, guid: 0b34160296fb4fc8aa46b536540c7db6, type: 3}
+    - {fileID: 21300000, guid: c7a62316e79e49e5abf1c6963ab69f4d, type: 3}
+    - {fileID: 21300000, guid: e935f7ab80214fe1bfcb263dc15f79c9, type: 3}
+    - {fileID: 21300000, guid: 9ab03143fafc425ab9a5a2e39e6563b7, type: 3}
+    - {fileID: 21300000, guid: 459aac5ba43c41a7b1aefb4ccf1ad8e4, type: 3}
+    - {fileID: 21300000, guid: 29ceaf4b7d6f4eccb6d67c7676e52810, type: 3}
+    - {fileID: 21300000, guid: 90dcb61c7f3445b8907d3b16b821af15, type: 3}
+    - {fileID: 21300000, guid: a3769496970b44ca80914a6bfd87c0d4, type: 3}
+    - {fileID: 21300000, guid: fdd9b6aa93414658a9d50ad6b493ad0a, type: 3}
+    - {fileID: 21300000, guid: d8ba91c656f646af843916cdcf8cc6ba, type: 3}
+    - {fileID: 21300000, guid: 9c5ef2498a654020ac88abeca6f92c8f, type: 3}
+    - {fileID: 21300000, guid: 1e680ecb3c1d4fc986f5e2c60c5c0023, type: 3}
+    - {fileID: 21300000, guid: 8e52700f8c234c9789f2f0a0bcdca96e, type: 3}
+    - {fileID: 21300000, guid: 8f0057277f1a4356a0d3586189b6c1f6, type: 3}
+    - {fileID: 21300000, guid: 2e2125ac39fa47668d52838817375ffb, type: 3}
+    - {fileID: 21300000, guid: a359af797fdd4b39ae0f87e92a61289a, type: 3}
+    - {fileID: 21300000, guid: 05e9c954da4d4ac7a458e27c84b5752c, type: 3}
+    - {fileID: 21300000, guid: 3bfb3bb94d22431994f2e0071836ea15, type: 3}
+    - {fileID: 21300000, guid: 00bde95aedef460584cf63a6d7c20764, type: 3}
+    - {fileID: 21300000, guid: 8df11140712242f79eabfb3ecb633717, type: 3}
+    totalSpriteSurfaceArea: 0
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_Tag: "WorkUICommon"
+  m_IsVariant: 0

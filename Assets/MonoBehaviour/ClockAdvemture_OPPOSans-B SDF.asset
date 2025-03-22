@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+  m_Name: "ClockAdvemture_OPPOSans-B SDF"
+  m_EditorClassIdentifier: 
+  hashCode: 1897977451
+  material: {fileID: 2100000, guid: 7618bcf8c65841d6bb441a10f5451c3c, type: 2}
+  materialHashCode: 701364971
+  m_Version: "1.1.0"
+  m_SourceFontFileGUID: "61f1734915162ba4c88c5d2721bb4c2e"
+  m_SourceFontFile_EditorRef: {fileID: 12800000, guid: 542162da621c47ffb6404544150c67ec, type: 3}
+  m_SourceFontFile: {fileID: 0}
+  m_AtlasPopulationMode: 1330663503
+  m_FaceInfo:
+    m_FaceIndex: 1936613715
+    m_FamilyName: "Bold"
+    m_StyleName: 
+    m_PointSize: 1099431936
+    m_Scale: 9.809089E-45
+    m_LineHeight: 6.361895E-43
+    m_AscentLine: 16.8125
+    m_CapLine: 46.51563
+    m_MeanLine: 3.3125
+    m_Baseline: 42.40625
+    m_DescentLine: 27.29688
+    m_SuperscriptOffset: 1.569454E-43
+    m_SuperscriptSize: 1.401298E-44
+    m_SubscriptOffset: 2.522337E-44
+    m_SubscriptSize: 6.726233E-44
+    m_UnderlineOffset: 1
+    m_UnderlineThickness: 0
+    m_StrikethroughOffset: 6.403934E-43
+    m_StrikethroughThickness: 32.54688
+    m_TabWidth: 46.51563
+  m_GlyphTable: []
